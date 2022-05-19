@@ -14,13 +14,15 @@ If you do not have git installed, [you can install one](https://git-scm.com/book
 
 # On Windows (assuming you installed Git on your system)
 
+Install [7-Zip](https://7-zip.org) first.
+
 Press [Windows key] + [R], then enter `cmd`.
 
 Then, `git clone https://github.com/AnaralahBelore223/marcos-martial-law-library`
 
 After that go to the folder named 'marcos-martial-law-library'.
 
-Using 7-Zip or WinRAR, open the file named `ml-library.7z.001`; then select Extract, then OK.
+Using 7-Zip (**please do not use WinRAR, because it is not compatible with the 7z format**), open the file named `ml-library.7z.001`; then select Extract, then OK.
 
 
 
