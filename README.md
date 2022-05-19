@@ -22,9 +22,19 @@ Then, `git clone https://github.com/AnaralahBelore223/marcos-martial-law-library
 
 After that go to the folder named 'marcos-martial-law-library'.
 
-Using 7-Zip (**please do not use WinRAR, because it is not compatible with the 7z format**), open the file named `ml-library.7z.001`; then select Extract, then OK.
+Using 7-Zip or WinRAR, open the file named `ml-library.7z.001`; then select Extract, then OK.
 
+# On Windows (if you have downloaded the file via the GUI)
 
+Extract the main.zip file first. 
+
+Then, to conserve disk space, you can choose to delete the `main.zip` file.
+
+Using 7-Zip open the file named `ml-library.7z.001` (please do not change the file extension).
+
+I recommend using your archive manager's own file manager to open the archive mentioned above.
+
+You can browse, extract the files all you want.
 
 # Permanent Web Links
 
