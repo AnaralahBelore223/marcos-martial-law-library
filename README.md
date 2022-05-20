@@ -2,7 +2,7 @@
 
 This repository contains an archived version of the Marcos Martial Law Library.
 
-All the relevant files are located in the `lib/` folder.
+All the relevant files are located in the `Lib/` folder.
 
 # Permanent Web Links
 

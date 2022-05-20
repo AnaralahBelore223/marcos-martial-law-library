@@ -1,1348 +1,1348 @@
 # Library Contents
 
-- Lib/[Paper] Mendoza, Paras, _ Bertulfo (2016). The Bataan Nuclear Power Plant in the Philippines_ Lessons from a White Elephant Project. Ateneo School of Government Working Paper 16001. .pdf
-- Lib/SHA256SUM
-- Lib/[Paper] De Dios, Gochoco-Bautista, _ Punongbayan (2021). Martial Law and the Philippine Economy. UP School of Economics Discusion Papers 202107..pdf
-- Lib/The Library/Surveys suppressed by martial law 2012.pdf
-- Lib/The Library/IMG_9490.PNG
-- Lib/The Library/Cronies/Crony List - A Malignant Spirit.mp4
-- Lib/The Library/Cronies/Remulla No Strike No Union.jpg
-- Lib/The Library/Cronies/pcgg-marcos-wealth-civil-cases-table-20160223.jpg
-- Lib/The Library/Cronies/Anos Fonacier surrendered the assets but had disposed of the assets long before the settlement was signed.pdf
-- Lib/The Library/Cronies/Search for Marcos_ wealth Compromising with cronies.pdf
-- Lib/The Library/Cronies/Manuel Nieto, Jr., Martial Law crony, to return P2.95 Billion to the Republic of the Philippines 2019.pdf
-- Lib/The Library/Imelda Party Pest.JPG
-- Lib/The Library/Bataan Nuclear Power Plant/BNPP Near Volcano.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/BNPP Near Fault Line.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/Three Mile Island 1979 USNRC.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/E - Westinghouse Rewriting Specifications.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/CNN - THE $2.2 BILLION NUCLEAR FIASCO.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/! [Paper] Mendoza, Paras, _ Bertulfo (2016). The Bataan Nuclear Power Plant in the Philippines_ Lessons from a White Elephant Project. Ateneo School of Government Working Paper 16001._
-- Lib/The Library/Bataan Nuclear Power Plant/! Nuclear Background.mp4
-- Lib/The Library/Bataan Nuclear Power Plant/! Timeline 2.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/! Timeline 3.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/Late Marcos crony owes country P1.1-B over BNPP project.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/High court affirms cases vs Marcos crony Disini _ Inquirer News.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/CNN-1 Westinghouse.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/! Westinghouse Settlement.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/IMG_0936.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/I - Honeycombing and Exposed Rebars.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/E - Comparison to Coal Fired Plants.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/IAEA Reviews the Philippines_ Nuclear Power Infrastructure Development 2018.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/E - Burden to Total Annual Budget.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/I - Defects and unresolved safety issues.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/E - IAEA recommended Batac but they built at Napot.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/C - Disini received commissions and awarded contracts to businesses he owns.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/R - South Korea’s offer to rehabilitate Bataan Nuclear Power Plant still stands, says PNRI exec.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/IMG_0931.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/E - $500 Million for Two to $1.1 Billion for One.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/X Links BNPP.docx
-- Lib/The Library/Bataan Nuclear Power Plant/IMG_0930.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/Chernobyl 1986.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/IAEA - A PRIMER ON THE BATAAN NUCLEAR.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/I - Hazard to Health and Safety and outmodeled.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/E - Burden Comparison to Water and Housing.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/CNN-1 Westinghouse Bribery Record.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/! 1979 Marcos declares BNPP unsafe 957.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/E - Recommendations of Safety set aside for safer options.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/C - Disini Received 3_ commission, Provided no substantial contribution to BNPP, Two payments to AI not in accounting.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/Opinion 1.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/IMG_0932.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/! Timeline 1.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/! C - GR No. 205172 Disini earned illegal commission.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/E - Disini companies awarded without bidding.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/CNN-2 Jesus Vergara interview.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/E - Burden End of Debt Payment.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/C - Disini unjust enrichment.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/CNN THE $2.2 BILLION NUCLEAR FIASCO Westinghouse_s Philippine power plant is a management nightmare.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/C - Court Verdict P1.1 Billion favoring PH Republic.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/I - Background.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/IMG_0929.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/Revisiting the Nuclear Option in the Philippines J Yap 2020.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/IAEA says PH still not ready for full nuclear energy program 2019.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/Letter of Instruction No. 876, s. 1979 - Inquiry on the safety of the Bataan Nuclear Power Plant.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/C - Disini earned commissions with evidence on record.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/E - Rent Seeking Behavior.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/IMG_0934.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/4000 Defects.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/I - Defective Areas cover 30_ of interior surface, Deep Voids caused by Air Entrapment.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/How they built the Bataan Nuclear Power Plant - Kevin Rodolfo.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/I - An Inquiry on Safety 1979.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/Letter of Instruction No. 957, s. 1979 - Bataan Nuclear Plant is not safe.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/E - Burden of Debt Payment.PNG
-- Lib/The Library/Bataan Nuclear Power Plant/R - Khovaev, Russian Ambassador, BNPP beyond revival.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/IAEA Delivers Report on Nuclear Power Infrastructure Development to the Philippines 2019.pdf
-- Lib/The Library/Bataan Nuclear Power Plant/E - 1976 Training started originally.PNG
-- Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/IMG_9798.HEIC
-- Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/M Deforestation Martial Law Museum.png
-- Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/IMG_9002.JPG
-- Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/IMG_9797.HEIC
-- Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/Ransacked Forest Cover.JPG
-- Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/IMG_9799.HEIC
-- Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/The Politics of Logging in the Philippines by Marites Danguilan Vitug.pdf
-- Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/IMG_9796.HEIC
-- Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/M Deforestation - Martial Law Museum.png
-- Lib/The Library/Meralco Seizure/NYTimes Lopez feud with Marcos.pdf
-- Lib/The Library/Meralco Seizure/History of Meralco.pdf
-- Lib/The Library/Meralco Seizure/General Order No. 70 ALL PRIVATE CORPORATIONS OR COMPANIES UNDER SEQUESTRATION 1972.pdf
-- Lib/The Library/Meralco Seizure/Meralco was sold to Marcos under duress.pdf
-- Lib/The Library/Meralco Seizure/Statement of Oscar M. Lopez on charges made by Juan Ponce Enrile.pdf
-- Lib/The Library/Bangui Windmills/Philippine Wind Farm Analysis 2000.pdf
-- Lib/The Library/Bangui Windmills/5 barangay council endorsements and mayor’s endorsement for Bangui.pdf
-- Lib/The Library/Bangui Windmills/Z Links Bangui Windmills.docx
-- Lib/The Library/Bangui Windmills/PROTOTYPE CARBON FUND IN THE AMOUNT OF USD 1.5 MILLION TO THE NORTHWIND POWER DEVELOPMENT CORPORATION FOR A NORTHWIND BANGUI BAY PROJECT.pdf
-- Lib/The Library/Bangui Windmills/World Bank to Northwind Power Dev.pdf
-- Lib/The Library/Bangui Windmills/Development Projects _ Philippines_ Northwind Bangui Bay Project - P087464.pdf
-- Lib/The Library/Bangui Windmills/Philstar Bangui Source of Funding.pdf
-- Lib/The Library/Bangui Windmills/IMG_0101.PNG
-- Lib/The Library/Bangui Windmills/Source of Funding Bangui Windmills.pdf
-- Lib/The Library/Bangui Windmills/RPReplay_Final1636357568.mp4
-- Lib/The Library/Bangui Windmills/Philippine Assets - ACEN.pdf
-- Lib/The Library/Bangui Windmills/First Gen - Wind.pdf
-- Lib/The Library/Bangui Windmills/IMG_0102.PNG
-- Lib/The Library/Bangui Windmills/Bangui Complete Documents.pdf
-- Lib/The Library/martial-law-editorial-cartoons_21630385432_o.jpg
-- Lib/The Library/IMG_9754.HEIC
-- Lib/The Library/! Mendiola Massacre 1987/Mendiola Events Alfredo Lim Inquirer 2008.pdf
-- Lib/The Library/Buried beside his mother.JPG
-- Lib/The Library/IMG_1266.JPG
-- Lib/The Library/Ferdinand E. Marcos First State of the Nation Address, January 24, 1966 GOVPH.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Marcos 1950 Borrowing Money Totalling 130,000 pesos.JPG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Marcos Net Income.PNG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/! FEM background.JPG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_9504.JPG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Z Links Imelda Guilty.docx
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_9546.PNG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Court says Ill-gotten is illegal.JPG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Imelda Marcos disqualified from holding office after corruption conviction 2018.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_0890.JPG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/7 Criminal Charges.png
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_0598.PNG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/! UN AFEI Sources of Marcos Wealth.PNG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/! Schweizeresche Kreditanstalt.PNG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_0570.JPG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/New Documents List $229 Million in Marcos Money.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Marcos 1950 Borrowing Money Totalling 130,000 pesos Photo.JPG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_9771.HEIC
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Imee, Bongbong Marcos were beneficiaries of illegal Swiss foundations.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/PD 1726 Treasure Hunting.PNG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Case Criminal Cases.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Right of Accused to Appeal.PNG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Case Evidence.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Opinion.png
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/That Marcos Foundation, January 31, 1970 Locsin.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Civil Criminal.jpg
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/! Business, Not A Foundation .PNG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/If Marcos never saw gold, why tell court gold was their source of wealth Rappler Mar 7, 2022.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_9547.PNG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Sandiganbayan Swiss ‘foundations’ set up to benefit Marcos family.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_2297.JPG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_2134.JPG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Gold price 1950 - 1959.png
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Marcos Foundation Opened.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Court magnanakaw RA 1379.JPG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Ramos to Imelda Come clean on hidden wealth, Ninoy_s murder.mp4
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/10 Questions for Marcos Jr - Ruben Carranza Former PCGG Head 2022.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Imelda guilty found guilty of creating private foundations in Switzerland from 1978 to 1984. Charged with 8 counts of graft. 2018.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Marcoses rob their own property after being frozen.jpg
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_9770.HEIC
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_9772.HEIC
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/RECORDS REBUT REAGAN_S COMMENT ON HOW MARCOS MADE HIS MONEY, FILIPINO SAYS - The New York Times 1986.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/1986_SwissBanksFreezeMarcosAccounts.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/PCGG Bongbong blocked return of $40M to gov’t.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/! Prima Facie that wealth is illega prevails.PNG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/RECOVERING FERDINAND MARCOS’ STOLEN ASSETS IN SWITZERLAND Daniel Thelesklaf Page 14.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/Ramos to Imelda Come clean on hidden wealth, Ninoy_s murder.pdf
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/RA 1379 Ill-Gotten Wealth Act.PNG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/CJ Panganiban Statement.JPG
-- Lib/The Library/Cases Imelda Guilty Swiss Graft/! Guilty beyond reasonable doubt.PNG
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/Z Links Golden Buddha.docx
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/$22B Award Against Marcos Reversed AP News 1-converted.pdf
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/Japanese and U.S. World War II Plunder and Intrigue.pdf
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/Decades-old legal battle over golden Buddha statue comes to Manhattan-converted.pdf
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/Katotohanan sa _golden buddha_.pdf
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/The Golden Buddha and the Marcos millions_ The legend of Yamashita_s treasure 2017.pdf
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/Golden Buddha.JPG
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/Estate of Roxas v 2005.pdf
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/FORMER GREEN BERET LEADING HUNT FOR TREASURE IN MANILA - The Washington Post.pdf
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/Lost Buddha 1986.pdf
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/Buddha Rogelio.JPG
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/How a Locksmith, a Dictator and a WWII General Are Connected to $22 Billion in Lost Treasure - HISTORY.pdf
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/ROXAS v Marcos 1998 Case.pdf
-- Lib/The Library/Golden Buddha Rogelio Roxas Case/Roxas v Marcos 1998.pdf
-- Lib/The Library/Edifice Complex/29 things about EDSA you may or may not know _ Coconuts Manila.pdf
-- Lib/The Library/Edifice Complex/Mt Sungay Lead.JPG
-- Lib/The Library/Edifice Complex/Edifice Lead 1.JPG
-- Lib/The Library/Edifice Complex/This is what EDSA looked like in traffic-free times.pdf
-- Lib/The Library/Edifice Complex/Imelda Marcos and her ‘edifice complex’.pdf
-- Lib/The Library/Edifice Complex/Z Link Edifice.docx
-- Lib/The Library/Edifice Complex/IMG_0141.PNG
-- Lib/The Library/Edifice Complex/Edifice Lead.JPG
-- Lib/The Library/Edifice Complex/Book Review_ Edifice Complex_ Power, Myth, and the Marcos State Architecture by Gerard Lico _ Philippine Art, Culture and Antiquities.pdf
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 463.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 440.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/GUILTY MONEY LAUNDERING Helen Rivilla.png
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 481.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 423.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 437.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_0938.PNG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 458.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 460.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 532.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 452.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Credit Suisse leak unmasks criminals, fraudsters and corrupt politicians _ Credit Suisse _ The Guardian 2022.pdf
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 447.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 465.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Helen Rivilla for money laundering held 8 million francs in Swiss bank until 2006 Rappler.pdf
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/L Money Laundering.docx
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 438.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 450.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 484.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Z Manapat Ricardo Some Are Smarter Than Others 1991.jpg
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/! A.PNG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 483.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 454.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 485.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_0979.JPG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 534.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/A - U.S. AGENTS RAID HOME OF MARCOS SON-IN-LAW SEIZE ART AND ANTIQUES BELIEVED LOOTED.pdf
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/274376209_10159041796474671_3329315296460914801_n.jpg
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 446.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/A - Strange Tale In Search For Marcos Money 1989.pdf
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 451.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 430.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 442.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 530.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 464.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/! UN AFEI Sources of Marcos Wealth.PNG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 476.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 444.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 443.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/C-Marcoses rob their own property after being frozen.jpg
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 434.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 445.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 453.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_1182.PNG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 426.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 472.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/2003 SC declares wealth stolen.PNG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 531.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_0980.JPG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/A - Artwork Seized at U.S. Home of Marcos Kin.pdf
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 469.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/B-Swiss bank.jpg
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 529.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 428.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 470.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_0664.PNG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/C-Court magnanakaw RA 1379.JPG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 457.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/B-Marcos scribbles total.JPG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 432.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 436.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 461.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 471.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 475.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/C-Court says Ill-gotten is illegal.JPG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 465-A.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_2590.PNG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Helen Rivilla Connection.jpg
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/B-Swiss bank Jane Ryans.jpg
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 459.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 479.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 473.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 435.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 429.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 441.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/$10bn question_ what happened to the Marcos millions_ _ Philippines _ The Guardian.pdf
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 449.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 533.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 474.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 448.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 427.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Helen Present as Marcos Lawyer.jpg
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Bongbong Marcos confirmed had direct hand in withdrawing US$213M from a Swiss bank in 1986.pdf
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 424.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 478.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_2268.PNG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Helen Teodoro Rivilla and husband face prison and $23.5 million in fines.pdf
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Helen Rivilla Accounts.webp
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/274367412_10159041796304671_4325062197360817459_n.jpg
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 439.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 456.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 487.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/C - Imelda’s admission as stolen.jpg
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 535.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Money Laundering.PNG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 465-B.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 455.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 482.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Helen Rivilla Accounts.JPG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 468.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_0919.JPG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 480.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 466.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/! Swiss Court Illegal Origin.PNG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 462.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_2591.PNG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_0937.JPG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_2729.JPG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 425.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 486.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 433.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 431.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 467.HEIC
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/! Only I know where the gold is.JPG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/C-10 Questions for Marcos Jr - Ruben Carranza Former PCGG Head 2022.pdf
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Helen Rivilla for money laundering held 8 million francs in Swiss bank until 2006 Rappler.pdf
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_2269.PNG
-- Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 477.HEIC
-- Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /Policy Developments in the 1980s.pdf
-- Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /The Roots of the Philippines_ Economic Troubles.pdf
-- Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /Philippine-Electoral-Almanac-May-10-spreads66-723x1024.jpg
-- Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /PIDS IMF STABILIZATION PROGRAM AND ECONOMIC GROWTH THE CASE OF THE PHILIPPINES.pdf
-- Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /Debt Crisis and Adjustment in the Philippines.pdf
-- Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /World Bank World Development Report 1983.pdf
-- Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /Floating Peso Cheers Manila 6.40 Peso per Dollar 1971.pdf
-- Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /Video 1.mov
-- Lib/The Library/Ongoing Research Topics/Calauit Island Safari Palawan/IMG_8930.JPG
-- Lib/The Library/Ongoing Research Topics/Calauit Island Safari Palawan/IMG_8931.JPG
-- Lib/The Library/Ongoing Research Topics/Calauit Island Safari Palawan/IMG_8929.JPG
-- Lib/The Library/Imelda Oligarch.jpeg
-- Lib/The Library/Z Links Consolidated.docx
-- Lib/The Library/8 things Juan Ponce Enrile, Bongbong Marcos got wrong about martial law Sept 2018.pdf
-- Lib/The Library/U.S. AUTHORITIES LIFT ORDER RESTRICTING MARCOS_S TRAVEL.pdf
-- Lib/The Library/IMELDA OLIGARCH Reference needs correction.png
-- Lib/The Library/IMG_9489.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Gold 8000 tons height scale.jpg
-- Lib/The Library/Tallano Gold Marcos Gold/Fake Last Will and Testament 3.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Hudes World Bank discrediting.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Tallano So-called Origins 1.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Debunking Asian Dollar.mp4
-- Lib/The Library/Tallano Gold Marcos Gold/Rita Gadi.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Gold 1.75M tons!.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Rizal Death.jpg
-- Lib/The Library/Tallano Gold Marcos Gold/! Ferdinand Borrowing Money 1950 Totalling 130,000 pesos.JPG
-- Lib/The Library/Tallano Gold Marcos Gold/IMG_0261.JPG
-- Lib/The Library/Tallano Gold Marcos Gold/Hudes Mentioning Rizal.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/The Richest Person Every Decade From 1820 to the Present.pdf
-- Lib/The Library/Tallano Gold Marcos Gold/Imelda Fake Documents 2.mp4
-- Lib/The Library/Tallano Gold Marcos Gold/Gold Worldwide Total.JPG
-- Lib/The Library/Tallano Gold Marcos Gold/Gold Solomon.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Rizal Fr Jose Antionio Diaz Jose Rizal True Identity.JPG
-- Lib/The Library/Tallano Gold Marcos Gold/Debunked Rizal Fake Death Story.pdf
-- Lib/The Library/Tallano Gold Marcos Gold/Voice Over Videos on Youtube of Marcos Gold.mp4
-- Lib/The Library/Tallano Gold Marcos Gold/Fake Certificate 1.1.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Gold Bars Currently Held by World Powers.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Rizal Conflicting Photo.jpg
-- Lib/The Library/Tallano Gold Marcos Gold/That Marcos Foundation, January 31, 1970 Locsin.pdf
-- Lib/The Library/Tallano Gold Marcos Gold/Fake Certificate 2.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Gold Tallano Clan.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/! Ferdinand Borrowing Money in 1950130,000 inflation to 2020.JPG
-- Lib/The Library/Tallano Gold Marcos Gold/Hudes World Bank Establishment Bretton Woods Conference.JPG
-- Lib/The Library/Tallano Gold Marcos Gold/Official Gazette Marcos Foundation.pdf
-- Lib/The Library/Tallano Gold Marcos Gold/Z Links Tallano.docx
-- Lib/The Library/Tallano Gold Marcos Gold/Gold price 1950 - 1959.png
-- Lib/The Library/Tallano Gold Marcos Gold/Imee No idea about all the Gold.mp4
-- Lib/The Library/Tallano Gold Marcos Gold/Fake Last Will and Testament 4 Comedia de la libertad de España por Bernardo del Carpio 1579 Juan de la Cueva.JPG
-- Lib/The Library/Tallano Gold Marcos Gold/Marcos Foundation Opened.pdf
-- Lib/The Library/Tallano Gold Marcos Gold/Fake Certificate 4.jpg
-- Lib/The Library/Tallano Gold Marcos Gold/Imelda Fake Documents Unable to Explain Properly Wealth.mp4
-- Lib/The Library/Tallano Gold Marcos Gold/Rizal Fr Jose Antionio Diaz Jose Rizal.jpg
-- Lib/The Library/Tallano Gold Marcos Gold/Fake Certificate 1.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Fake Last Will and Testament 2.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Imee No Idea about Gold.JPG
-- Lib/The Library/Tallano Gold Marcos Gold/Fake The Untold Story of the Kingdom of the Maharlikans.pdf
-- Lib/The Library/Tallano Gold Marcos Gold/Rizal Fake Death Story.pdf
-- Lib/The Library/Tallano Gold Marcos Gold/Hudes Next News Network Fake News.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Debunking Marcos Wealth for Humanity.mp4
-- Lib/The Library/Tallano Gold Marcos Gold/Tallano So-called Origins.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Debunked The Untold Story of the Kingdom of the Maharlikans.pdf
-- Lib/The Library/Tallano Gold Marcos Gold/Fake Last Will and Testament 1.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Imelda Fake Documents.mp4
-- Lib/The Library/Tallano Gold Marcos Gold/Fake Certificate 3.PNG
-- Lib/The Library/Tallano Gold Marcos Gold/Hudes.mp4
-- Lib/The Library/Marcos First SONA 1966.pdf
-- Lib/The Library/Foreign Opinions/IMG_7771.JPG
-- Lib/The Library/Foreign Opinions/Reagan Statement.JPG
-- Lib/The Library/Foreign Opinions/What Singapore_s Founding Father Lee Kuan Yew Really Thought of the Marcos Regime.pdf
-- Lib/The Library/Foreign Opinions/Reagan Rebuttal by Salonga 1986.pdf
-- Lib/The Library/Foreign Opinions/IMG_7770.JPG
-- Lib/The Library/Foreign Opinions/Political Virtue and Economic Leadership- Lee Kuan Yew and Ferdinand Marcos Compared.pdf
-- Lib/The Library/Foreign Opinions/IMG_7769.JPG
-- Lib/The Library/Foreign Opinions/Z Links Foreign.docx
-- Lib/The Library/Foreign Opinions/15 things Lee Kuan Yew said about the Philippines.pdf
-- Lib/The Library/War Heroism Debunked WWII/A06_March 31 1948 Final Irrevocable Refusal.pdf
-- Lib/The Library/War Heroism Debunked WWII/A02_Dec 18 1945 Followup Letter from Marcos.pdf
-- Lib/The Library/War Heroism Debunked WWII/A01_August 18 1945 First Attempt for recognition by Marcos.pdf
-- Lib/The Library/War Heroism Debunked WWII/A03_June 7 1947 Letter by Brown to Marcos Denying Recognition.pdf
-- Lib/The Library/War Heroism Debunked WWII/A04_July 16 1947 Protest Telegram from Marcos.pdf
-- Lib/The Library/War Heroism Debunked WWII/IMG_0512.JPG
-- Lib/The Library/War Heroism Debunked WWII/A05_Dec 2 1947 Nine page Letter from Marcos.pdf
-- Lib/The Library/War Heroism Debunked WWII/Marcos Father Japanese Collaborator Executed as Traitor.pdf
-- Lib/The Library/War Heroism Debunked WWII/B_1947 Investigation in Response to Protest Telegram.pdf
-- Lib/The Library/War Heroism Debunked WWII/B_March 30 1948 Rebuttal from Curtis.pdf
-- Lib/The Library/JPE Edsa is Real Statement.PNG
-- Lib/The Library/Sereno Links/IMG_8316.JPG
-- Lib/The Library/Sereno Links/IMG_8347.PNG
-- Lib/The Library/Sereno Links/FAKE AUDIO BNPP NI MARCOS NAKIKIUSAP KAY CORY SA TAAS NG PRESYO NG KURYENTE.pdf
-- Lib/The Library/Sereno Links/IMG_8152.JPG
-- Lib/The Library/Sereno Links/IMG_8148.PNG
-- Lib/The Library/Sereno Links/IMG_8255.JPG
-- Lib/The Library/Sereno Links/Foreign Opinion on Marcos Corruption Sereno.pdf
-- Lib/The Library/Sereno Links/IMG_8147.JPG
-- Lib/The Library/Sereno Links/HINDI KAYANG PABULAANAN NA NINAKAWAN NI MARCOS ANG BAYAN Sereno.pdf
-- Lib/The Library/Sereno Links/TOTOO PO BA NA MAY TALLANO FAMILY, NA KING NG MAHARLIKA Sereno.pdf
-- Lib/The Library/Sereno Links/ASSASSINATION NI NINOY AQUINO Sereno.pdf
-- Lib/The Library/Sereno Links/IMG_8146.JPG
-- Lib/The Library/Sereno Links/IMG_8151.JPG
-- Lib/The Library/Sereno Links/POSIBLE BA YUNG KWENTO NG MARCOS GOLD MULA SA MGA TALLANO Sereno.pdf
-- Lib/The Library/Sereno Links/IMG_8154.JPG
-- Lib/The Library/Sereno Links/ODA Marcos Sereno.pdf
-- Lib/The Library/Sereno Links/IMG_7620.JPG
-- Lib/The Library/Sereno Links/BNPP Sereno.pdf
-- Lib/The Library/Sereno Links/TIMELINE NG PANTASYA UKOL SA YAMAN NA IPAMIMIGAY NG MGA MARCOS Sereno.pdf
-- Lib/The Library/Sereno Links/Marcos Fr. Diaz FAKE PO YUNG SINASABING RICHEST MAN IN THE WORLD Sereno.pdf
-- Lib/The Library/Sereno Links/IMG_8153.JPG
-- Lib/The Library/News Clippings/Sandiganbayan orders Royal Traders Holding to pay gov’t P365-M in Marcoses’ bank deposits.pdf
-- Lib/The Library/News Clippings/Marcos Liberal Party.JPG
-- Lib/The Library/News Clippings/Philippine Congress okays bill on payments to Martial Law human rights victims 2013.pdf
-- Lib/The Library/News Clippings/I was victimized by _unknown_ syndicate - Bongbong.pdf
-- Lib/The Library/News Clippings/Imee Marcos, sons tied to offshore trust in Caribbean Sintra Trust 2013.pdf
-- Lib/The Library/News Clippings/Imee, Bongbong Marcos were beneficiaries of illegal Swiss foundations.pdf
-- Lib/The Library/News Clippings/Gloria EDSA 1.JPG
-- Lib/The Library/News Clippings/Imelda No Knowledge of Sources of Husband’s wealth. Not Guilty 1990.pdf
-- Lib/The Library/News Clippings/Debt, deprivation and spoils of dictatorship 31 years of amnesia.pdf
-- Lib/The Library/News Clippings/Z Links News.docx
-- Lib/The Library/News Clippings/Marcoses Barred From US entry Refusal to pay $2 Billion to 9,539 Victims.pdf
-- Lib/The Library/News Clippings/UK Paper Marcos Jr Oxford Degree.JPG
-- Lib/The Library/News Clippings/Chronology of the Marcos Plunder - Asian Journal San Diego 2012.pdf
-- Lib/The Library/News Clippings/Imee Marcos Offshore Accounts 2002 British Virgin Islands Did not disclose Total Amount 2021.pdf
-- Lib/The Library/News Clippings/Imee Marcos, sons tied to offshore trust in Caribbean Sintra Trust 2013(1).pdf
-- Lib/The Library/News Clippings/Imee Marcos and her three sons on Panama Papers list 2016.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Waltzing With a Dictator The Marcoses and the Making of American Policy by Raymond Bonner.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/MartialLawAll.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Pintig.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/[Book] Mijares, Primitivo (1976). The Conjugal Dictatorship of Ferdinand and Imelda Marcos (Reprint, 1st ed.)..pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Amnesty International Report During Martial Law 1981.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Mito at Disimpormasyon by Ramon Guillermo.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Marcos_ Lovey Dovie by Hermie Rotea.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Marcos Martial Law Never Again by Raissa Robles.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Amnesty International Report 1975.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Economic Policymaking Under Marcos.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/32 The Marcos file - By Charles McDougald-compressed.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Martial Law Bibliography by Tom Walsh.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Conjugal_ Diosdado Macapagal Statement.PNG
-- Lib/The Library/Books, Reports, Scholarly Papers/National Historical Commission On Marcos Burial.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/DarkLegacy Human Rights Under Martial Law by Alfred Mc Coy.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/1973 Document on Safehouses and Treatment of Detainees.jpeg
-- Lib/The Library/Books, Reports, Scholarly Papers/A Country in Crisis,  A Report by Lawyers Commit.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/The Rise-and Fall of Ferdinand Marcos.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Narrating Human Rights in the Philippines by Rhea Abuso.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Z Links.docx
-- Lib/The Library/Books, Reports, Scholarly Papers/IMG_8948.JPG
-- Lib/The Library/Books, Reports, Scholarly Papers/An-Analysis-of-the-Philippine-Economic-Crisis.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/Marcos Dynasty by Sterling Seagrave.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Introduction to The Marcos Legacy_Economic Policy and Foreign Debt in the Philippines.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Paul D. Hutchcroft - Booty Capitalism_ The Politics of Banking in the Philippines (1998).pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/JMS_Rise and Fall of Marcos Fascist Dictatorship.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Cacique Democracy in the Philippines - Benedict Anderson - Copy.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Regime_Change_in_the_Philippines.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/ROBLES_SCMP_EMBARASSMENT OF RICHES.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/orca_share_media1584966426532.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/cherian1986_Change and Continuity in Philippine.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Marcos and the media.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[] Chua, Michael (). HARING_BAYAN_Democracy_and_People_Power_in_the_Philippines_By_Xiao_Chua.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Cu Unjieng, Nicole - FERDINAND MARCOS APOTHEOSIS OF THE PHILIPPINE HISTORICAL TRADITION.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Benigno Aquino Between Dictatorship and Revolution in the Philippines.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[] Chua, Michael (). Ang_Imeldific_By_Xiao_Chua.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Tadiar (2004). Fantasy-Production_ Sexual Economies and Other Philippine Consequences for the New World Order.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/McCOY - Torture and Impunity_ The U.S. Doctrine of Coercive Interrogation.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[Martial Law Diary and other papers] Danilo P. Vizmanos - Martial Law Diary (2003, Ken Inc.) - libgen.lc.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Militant Struggles and Anti-Imperialism in Resil Mojares_s The Freeman Columns.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Democratization and Stabilization in the Philippines.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Political Conjuncture and Scholarly Disjunctures_Reflections on the PH State Under Marcos.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Alfred McCoy - A Question of Torture_ CIA Interrogation, from the Cold War to the War on Terror (2007, St. Martins Press) - libgen.lc.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/reyes2018.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Bello, Walden. 1982. Development Debacle_ The World Bank in the Philippines.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/1977-1986 Detention and Defiance Against Dictatorship.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/JMS-The-Dangers-of-Reformism.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/orca_share_media1584966426541.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/orca_share_media1584966426602.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/The Philippines in 1983 Authoritarianism Beleaguered.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/orca_share_media1584974068883.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Misagh Parsa - States, Ideologies, and Social Revolutions_ A Comparative Analysis of Iran, Nicaragua, and the Philippines-Cambridge University Press (2000) (1).pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Rafael__Patronage_and_Pornography__Ideology_and_Spectatorship_in_the_Early_M.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[] Chua, Michael (). IMELDA_MAYNILA_BY_XIAO_CHUA.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[] Chua, Michael (). NINOY_AQUINO_LIWANAG_SA_DILIM_By_Xiao_Chua.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/McCoy (2009) - Policing America’s Empire The United States, the Philippines, and the Rise of the Surveillance State.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/orca_share_media1584966426556.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/kaul1978_THE MARCOS REGIME IN THE PHILIPPINES.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[] Chua, Michael (). TORTYUR_Human_Rights_Violations_During_The_Marcos_Regime_By_Xiao_Chua.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Dovie Beams and Philippine Politics.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/claudio2010_Memories of the anti-Marcos.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/A Cruel Deception_1983.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/MARTIAL LAW IN THE PHILIPPINES_Research Guide.pdf
-- Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[] Chua, Michael (). ANG_ATING_PANAHON _Ang_Bayan_Mula_Pagkabansang_Republika_Hanggang_Kapangyarih_ng_Bayan_By_Xiao_Chua.pdf
-- Lib/The Library/Estate Tax/IMG_1188.JPG
-- Lib/The Library/Estate Tax/IMG_1190.JPG
-- Lib/The Library/Estate Tax/IMG_1189.JPG
-- Lib/The Library/Estate Tax/Tax BIR audit procedures.pdf
-- Lib/The Library/IMG_8965.JPG
-- Lib/The Library/!Victims of Martial Law/8.jpg
-- Lib/The Library/!Victims of Martial Law/! Prof Carlos Analyst comment about Martial Law Victims.mp4
-- Lib/The Library/!Victims of Martial Law/IMG_8479.JPG
-- Lib/The Library/!Victims of Martial Law/Screen Shot 2021-09-20 at 10.50.29 PM.png
-- Lib/The Library/!Victims of Martial Law/Philippine Congress okays bill on payments to Martial Law human rights victims 2013.pdf
-- Lib/The Library/!Victims of Martial Law/HILAO, Liliosa R.pdf
-- Lib/The Library/!Victims of Martial Law/The Heroes Who Fought Martial Law_ Liliosa Hilao _ Martial Law Museum.pdf
-- Lib/The Library/!Victims of Martial Law/11.jpg
-- Lib/The Library/!Victims of Martial Law/12.jpg
-- Lib/The Library/!Victims of Martial Law/H-Harry Roque Syllabus.JPG
-- Lib/The Library/!Victims of Martial Law/Screen Shot 2021-09-20 at 10.49.56 PM.png
-- Lib/The Library/!Victims of Martial Law/IMG_8480.JPG
-- Lib/The Library/!Victims of Martial Law/IMG_0563.PNG
-- Lib/The Library/!Victims of Martial Law/! Harry Roque.JPG
-- Lib/The Library/!Victims of Martial Law/IMG_0561.PNG
-- Lib/The Library/!Victims of Martial Law/4.jpg
-- Lib/The Library/!Victims of Martial Law/Bantayog.jpg
-- Lib/The Library/!Victims of Martial Law/Z Victims.docx
-- Lib/The Library/!Victims of Martial Law/Martial Law Marker.JPG
-- Lib/The Library/!Victims of Martial Law/10.jpg
-- Lib/The Library/!Victims of Martial Law/Marcos Jr Martial Law Victims only after Money.JPG
-- Lib/The Library/!Victims of Martial Law/6.jpg
-- Lib/The Library/!Victims of Martial Law/IMG_8478.JPG
-- Lib/The Library/!Victims of Martial Law/First Payments Are Made to Victims of Marcos Rule.pdf
-- Lib/The Library/!Victims of Martial Law/7.jpg
-- Lib/The Library/!Victims of Martial Law/Hilao v Marcos, 95-16779.pdf
-- Lib/The Library/!Victims of Martial Law/9.jpg
-- Lib/The Library/!Victims of Martial Law/640_2014_09_18_21_17_06.png
-- Lib/The Library/!Victims of Martial Law/! Harry Roque, former Human Rights Professor.mov
-- Lib/The Library/!Victims of Martial Law/Screen Shot 2021-09-20 at 10.51.07 PM.png
-- Lib/The Library/!Victims of Martial Law/2.jpg
-- Lib/The Library/!Victims of Martial Law/! Martial Law victims face the Youth.mp4
-- Lib/The Library/!Victims of Martial Law/14.jpg
-- Lib/The Library/!Victims of Martial Law/IMG_0815.JPG
-- Lib/The Library/!Victims of Martial Law/Martial Law Marker 2.jpg
-- Lib/The Library/!Victims of Martial Law/IMG_0562.PNG
-- Lib/The Library/!Victims of Martial Law/! Prof Contreras.mp4
-- Lib/The Library/!Victims of Martial Law/5.jpg
-- Lib/The Library/!Victims of Martial Law/10,000 FILIPINOS WIN $1.2 BILLION FROM MARCOS.pdf
-- Lib/The Library/!Victims of Martial Law/Screen Shot 2021-09-20 at 10.50.50 PM.png
-- Lib/The Library/!Victims of Martial Law/3.jpg
-- Lib/The Library/!Victims of Martial Law/1.jpg
-- Lib/The Library/!Victims of Martial Law/! Prof Contreras Analyst comment about Martial Law Victims.mp4.mp4
-- Lib/The Library/!Victims of Martial Law/IMG_0814.JPG
-- Lib/The Library/!Victims of Martial Law/Screen Shot 2021-09-20 at 10.51.22 PM.png
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/IMG_9244.JPG
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Ferdinand Marcos Britannica Biography.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/The long road to Marcos ill gotten wealth recovery_2018.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Where Marcos stashed multibillion loot.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Marcos Mansions_2006.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Imelda Court Case in US_Shoe time_1990.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Last Chance for the Philippines A corrupt dynasty, a guerrilla insurgency, U.S. military bases.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Ill gotten wealth_The role of the Iron Butterfly_1983.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Transparency International Global Corruption Report 2004.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/July 2003_Sandiganbayan Decision Proving Marcos Ill Gotten Wealth.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Marcos Ill Gotten Wealth_Greatest Loot In History by Charlie Avila.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Imelda_s Mansion renovated_2015.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Marcos Papers Show Global Financial Web.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Marcos_s Paper Trail_1986.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/IMG_7889.JPG
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Debt, deprivation and spoils of dictatorship 31 years of amnesia.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/1986_The Philippines- Anatomy of a Looting.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/PCGG Bongbong blocked return of $40M to gov’t-converted.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Guiness Book of World Records/Screen Shot 2021-09-21 at 7.09.21 PM.png
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Guiness Book of World Records/Screen Shot 2021-09-21 at 7.09.06 PM.png
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Ill Gotten Wealth_First Family in exile_1987.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Transparency International 2004 Marcos.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Ferdie and Meldy House of Love and Loot.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Screenshot 2021-12-07 at 00-26-57 2004_GCR_PoliticalCorruption_EN pdf.png
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/The Marcos money empire_1985.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Stolen Asset Recovery (StAR) Initiative Challenges, Opportunities, and Action Plan.pdf
-- Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/IMG_9243.JPG
-- Lib/The Library/IMG_9753.HEIC
-- Lib/The Library/Z Poverty and Corruption Reports Today/Poverty Report 2021.JPG
-- Lib/The Library/EDSA Revolution 1986/IMG_9869.mp4
-- Lib/The Library/EDSA Revolution 1986/Enrile Confession.pdf
-- Lib/The Library/EDSA Revolution 1986/Enrile Fake Ambush Alleged/fourdaysthatendedanera-frommypersonalarchives-articlefromasiaweekmarch91986-121105194533-phpapp01.pdf
-- Lib/The Library/EDSA Revolution 1986/Enrile Fake Ambush Alleged/Marcos-September-22-1972.png
-- Lib/The Library/EDSA Revolution 1986/Enrile Fake Ambush Alleged/Excerpt of Waltzing with a Dictator by Raymond Bonner.pdf
-- Lib/The Library/EDSA Revolution 1986/Enrile Fake Ambush Alleged/Screenshot 2021-12-08 at 00-42-07 True or false Was 1972 Enrile ambush faked -converted.pdf
-- Lib/The Library/EDSA Revolution 1986/Enrile Fake Ambush Alleged/Excerpt of The-Conjugal-Dictatorship-of-Ferdinand-and-Imelda-Marcos.pdf
-- Lib/The Library/EDSA Revolution 1986/! NDIIA SNAP ELECTIONS 1986 REPORT.pdf
-- Lib/The Library/EDSA Revolution 1986/IMG_0582.JPG
-- Lib/The Library/EDSA Revolution 1986/Juan Ponce Enrile Saw Influence Wane - The Washington Post.pdf
-- Lib/The Library/EDSA Revolution 1986/Z EDSA.docx
-- Lib/The Library/EDSA Revolution 1986/Enrile Confession Mentioning Marcos suggesting he should go against Cory.pdf
-- Lib/The Library/EDSA Revolution 1986/CIA - Thinking-the-unthinkable-fall-of-the-philippines.pdf
-- Lib/The Library/EDSA Revolution 1986/! NDIAA Snap Election Report.PNG
-- Lib/The Library/Z Links/Z Links Victims.docx
-- Lib/The Library/Z Links/Z Links Golden Buddha.docx
-- Lib/The Library/Z Links/Z Links 1969.docx
-- Lib/The Library/Z Links/Z Links Imelda Guilty.docx
-- Lib/The Library/Z Links/Z Links Cory Hostage .docx
-- Lib/The Library/Z Links/Z Links PCGG.docx
-- Lib/The Library/Z Links/Z Links Bangui Windmills.docx
-- Lib/The Library/Z Links/Z Links Legal Fights Marcos Lost.docx
-- Lib/The Library/Z Links/Z Links Famine Poverty.docx
-- Lib/The Library/Z Links/Z Links 13th Month.docx
-- Lib/The Library/Z Links/Z Links ODA Japan.docx
-- Lib/The Library/Z Links/Z Links Crushing Propaganda.docx
-- Lib/The Library/Z Links/Z Links Economy.docx
-- Lib/The Library/Z Links/X Links BNPP.docx
-- Lib/The Library/Z Links/Z Links Pope.docx
-- Lib/The Library/Z Links/Sereno Links.docx
-- Lib/The Library/Z Links/Z Links Ill Gotten.docx
-- Lib/The Library/Z Links/Z Links Meralco.docx
-- Lib/The Library/Z Links/Z Links Distribution of Ill-gotten wealth.docx
-- Lib/The Library/Z Links/Z Links Cult.docx
-- Lib/The Library/Z Links/Z Links Foreign.docx
-- Lib/The Library/Z Links/Z Link Court Cases.docx
-- Lib/The Library/Z Links/Z Links Election Protest.docx
-- Lib/The Library/Z Links/Z Link Crony .docx
-- Lib/The Library/First Parliament Elections 1978/IMG_2339.JPG
-- Lib/The Library/First Parliament Elections 1978/IMG_2335.PNG
-- Lib/The Library/First Parliament Elections 1978/IMG_2342.JPG
-- Lib/The Library/First Parliament Elections 1978/IMG_2337.PNG
-- Lib/The Library/First Parliament Elections 1978/IMG_2338.JPG
-- Lib/The Library/First Parliament Elections 1978/IMG_2343.JPG
-- Lib/The Library/First Parliament Elections 1978/IMG_2336.PNG
-- Lib/The Library/First Parliament Elections 1978/IMG_2340.JPG
-- Lib/The Library/First Parliament Elections 1978/IMG_2341.JPG
-- Lib/The Library/Cases Court Documents/Marcoses lose $354-M contempt case award to human rights victims (Refusing to award $2 billion to 9539 Filipinos).pdf
-- Lib/The Library/Cases Court Documents/Sandiganbayan orders Royal Traders Holding to pay gov’t P365-M in Marcoses’ bank deposits.pdf
-- Lib/The Library/Cases Court Documents/! 2003 Summary G.R. No. 152154 Republic vs. Sandiganbayan Estate Summary (2003).pdf
-- Lib/The Library/Cases Court Documents/FRANCISCO I. CHAVEZ, PETITIONER, VS. IMELDA R. MARCOS, RESPONDENT.pdf
-- Lib/The Library/Cases Court Documents/! Compilation Marcos Cases.pdf
-- Lib/The Library/Cases Court Documents/MANILA WINS RULING IN JERSEY ON MARCOS ESTATE AND CASH.pdf
-- Lib/The Library/Cases Court Documents/L - RA 1379 Unlawfully Acquired Wealth.pdf
-- Lib/The Library/Cases Court Documents/2017 G.R. No. 213027, January 18, 2017 - Marcos loses legal fight to reclaim Paintings, Jewelry, Silverware, European Ceramics, Chinese Ceramics to the Philippines in the Malacañang Collection.pdf
-- Lib/The Library/Cases Court Documents/Swiss Court Philippines given access to over USD 683 million.pdf
-- Lib/The Library/Cases Court Documents/2012 G.R. No. 189434 Computation Basis for Ill-Gotten Wealth.pdf
-- Lib/The Library/Cases Court Documents/2003 July G.R. No. 152154, July 15, 2003 - US$658,175,373.60 2002, plus interest, are hereby forfeited in favor of petitioner Republic of the Philippines.pdf
-- Lib/The Library/Cases Court Documents/Hawaii Court In Re Estate of Marcos Human Rights Litigation, 910 F. Supp. 1460 (D. Haw 1995).pdf
-- Lib/The Library/Cases Court Documents/2006 GR 149802.pdf
-- Lib/The Library/Cases Court Documents/Marcos Imelda Swiss Signature Comparisons.JPG
-- Lib/The Library/Cases Court Documents/IMG_9558.PNG
-- Lib/The Library/Cases Court Documents/Copy of 2003 G.R. No. 152154, July 15, 2003 - US$658,175,373.60 2002, plus interest, are hereby forfeited in favor of petitioner Republic of the Philippines.pdf
-- Lib/The Library/Cases Court Documents/Z Links Cases.docx
-- Lib/The Library/Cases Court Documents/! Marcos delaying.PNG
-- Lib/The Library/Cases Court Documents/! 2018 Imelda Guilty of Graft Swiss Accounts.pdf
-- Lib/The Library/Cases Court Documents/Case Digest_ FRANCISCO I. CHAVEZ v. IMELDA R.pdf
-- Lib/The Library/Cases Court Documents/Swiss Court Philippines given access to over USD 683 million(1).pdf
-- Lib/The Library/Cases Court Documents/! 2012 Summary GR No. 189434, 189505,.pdf
-- Lib/The Library/Cases Court Documents/L - E.O. No 2 1986.pdf
-- Lib/The Library/Cases Court Documents/! Supreme Court declares money stolen from Philippines.PNG
-- Lib/The Library/Cases Court Documents/GR No. 192223.pdf
-- Lib/The Library/Cases Court Documents/2012 G.R. No. 189434, April 25, 2012 - US$3,369,975 as of 1983 forfeited to the Philippines belonging to corporate entity Arelma, S.A..pdf
-- Lib/The Library/Cases Court Documents/! 2006 GR NO. 149802 digest.pdf
-- Lib/The Library/Cases Court Documents/L - E.O. No 1 1986.pdf
-- Lib/The Library/Cases Court Documents/1997 G.R. No. 120880 Estate Tax.pdf
-- Lib/The Library/Cases Court Documents/2003 Nov G.R. No. 152154.pdf
-- Lib/The Library/Cases Court Documents/! 2017 Summary G.R. NOS. 213027 _ 213253.pdf
-- Lib/The Library/Cases Court Documents/ROXAS v Marcos 1998 Case.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /5870-16521-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /5946-16820-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /5945-16815-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5928-16749-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5940-16797-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5930-16757-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5903-16653-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5891-16605-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5950-16836-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5902-16649-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5894-16617-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5923-16729-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5921-16721-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5935-16777-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5879-16557-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5932-16765-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5939-16793-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5897-16629-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5951-16840-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5929-16753-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5914-16693-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5901-16645-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5959-16868-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5881-16565-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5936-16781-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5877-16549-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5878-16553-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5960-16872-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5938-16789-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5953-16848-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5899-16637-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5955-16856-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5927-16745-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5933-16769-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5907-16669-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5912-16685-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5937-16785-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5906-16665-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5888-16593-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5887-16589-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5917-16705-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5898-16633-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5908-16673-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5952-16844-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5949-16832-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5883-16573-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5931-16761-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5896-16625-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5918-16709-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5957-16860-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5919-16713-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5913-16689-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5916-16701-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5890-16601-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5880-16561-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5958-16864-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5885-16581-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5911-16681-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5904-16657-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5934-16773-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5893-16613-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5895-16621-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5925-16737-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5915-16697-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5920-16717-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5889-16597-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /5874-16537-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /5864-16500-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /5868-16513-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /5867-16509-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /5872-16529-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /5866-16505-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /5948-16828-1-PB.pdf
-- Lib/The Library/Marcos Kasarinlan 2012-2013 /6233-17674-1-PB.pdf
-- Lib/The Library/Rolex 12.JPG
-- Lib/The Library/IMG_9483.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Lt. Jesus Castro.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ver 2017 Esquire Strange Bedfellows_ A Martial Law Love Story.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ver Irwin 2013 Rappler Interview.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Army Chief Acquitted in Murder of Aquino Dec. 2, 1985.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/3. Marcos Coverup and release of Fabian Ver.mp4
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/In the Know_ Pablo Martinez among 16 soldiers convicted of killing Aquino 2014.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Background Before the Flight.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Blunt Object Hit Ninoy_s Head According to Autopsy.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ernesto Herrero Former Agrava Commissioner No Proof Marcos Imelda Danding.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/AQUINO WAS WARNED 3 TIMES OF DEATH PLOT - The New York Times.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Aquino Heart Attack and Surgery.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Z Pardoned by Gloria March 2009.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! Court Case G.R. No. 72670, September 12, 1986 Ninoy Assassination.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Kidney Transplant Incision.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Valerio Missing Link Whereabouts.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Jessie Barcelona Hesitance.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Z Ninoy.docx
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/2. Forensic Evidence.mp4
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Kris Aquino clears uncle Danding in Ninoy assassination.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Opinion #1.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/G.R. NOS. 96027-28 SC No Aquino-Galman case reopening May 2005.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Opinion #2.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Rebecca Quijano 32 year old business owner.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Philippines charges CIA tried to influence probe of Aquino killing to discredit Marcos.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! Ninoy Write-up Ongoing.docx
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Knowledge of Ninoy Return Oplan Balikbayan.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/1.1 Going down the stairs.mp4
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ver talks with Custodio hours after the murder.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/1. Inside the Airplane Audio.mp4
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Galman Fallguy Coverup.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Jessie Barcelona Statement.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Sergeant who linked Danding to Ninoy assassination dies 2014.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ver It’s better you don’t know, General Ver told Irwin.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - 16 Soldiers Guilty Verdict.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Rise and Fall of Ferdinand Marcos Excerpt by William Overholt.jpg
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/PANEL ON SLAYING OF AQUINO FINDS A MILITARY PLOT 1984.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Evidences against Marcos Bad Faith Ninoy Galman double murder.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Rogelio Moreno Established Killer.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/1.2 Timing of the shot 11 seconds 19 steps of stair.mp4
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Galman Shooting.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Sandra Burton Statement.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Miranda.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Imelda Warns Ninoy of Assassination Plot.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Felipe Valerio Missing Link in Hiding.mp4
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Martinez Lying to the Court.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Moreno found with powder burns.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Questions by Government.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ramon Balang says not Galman definitely not Galman. Didnt see him with a gun. Martinez oins Gatan.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/6 People Who Killed Ninoy Aquino, According to Conspiracy Theorists – FilipiKnow.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Martinez states via Mateo that a Powerful Marcos Ally was behind it.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/2.7 Aquino down the stairs with escorts.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Martinez Lying to the Court 1.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Imelda Testifies 1984.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ochoco tagged by Martinez.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Martinez Pins Romeo Gatan, Ople opens commission and announces nothing.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Martinez states via Mateo that a Powerful Marcos Ally was behind it 2009.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Who killed Ninoy.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Forensic Evidence by Supreme Court.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/2.2 Marcos Coverup Forensic Findings Bouncing Bullet.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/1.2 Position of Gunmen Moreno.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/ASSASSINATION NI NINOY AQUINO Sereno.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Background Before the Flight Cameramen.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/1990 September Court Convicts 16 in Murder of Mrs.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Killer Rogelio Moreno  Established.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Rebecca Quijano and Jessie Barcelona Statements.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Newspapermen Manipulated by Col. Tigas Chief Media Relations of the Presidential Security Command.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/4. Marcos Government Guilty 16 Soldiers out to bars.mp4
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Background 3 Days before Intelligence following Aquino Leads.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Mateo Pins Martinez and Valerio Mar 7, 2009.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Martinez Pins Conjuangco, Pins Galman entry to himself.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ramos to Imelda Come clean on hidden wealth, Ninoy_s murder.mp4
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/2.6 Petrous Bone Incapable of Deflection.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Mag moro moro nalang kayo.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! G.R. NO.72670 Digest.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Valerio Missing Link.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Rebecca Quijano Statement.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! GR No. 96027-28 Digest.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Galman Picked up by Military.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! Criminal Case 10010 _ 10011 1990.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Rebecca Quijano Eye witness.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Transcript of ABS-CBN Interview with Pablo Martinez, co-accused in the Aquino murder case 2007.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! G.R. NOS. 96027-28 - Motion to Reopen Case 2005.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Assassination of Aquino linked to power struggle for successor to Marcos - CSMonitor 1983.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ochoco knows more than Valerio.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Pusila per Soldier.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Kidney August 1983 Allegedly Untrue 1984 Photo.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Moreno Family were helped fund Jesuit Prison Service Program.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Background Stairs were Open Steel Steps.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Ramon Balang Testimony.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Testimony Agrava.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Valerio Missing Link(1).PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Original Audio Recording.mp4
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Corazon Agrava_ Chairman of Aquino commission - UPI Archives.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Valerio ordered AVESCOM Van.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Background Before the Assassination.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Olivia Antimano Statement.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Martinez Confession pins on Galman Cojuangco.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/scoures.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ninoy Actual Photo (Graphic, Blood)/2.3 Exit Wound Aquino.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ninoy Actual Photo (Graphic, Blood)/2.5 Entry Wound Aquino.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Kidney Aquino Rumors 1979.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/It’s better you don’t know, General Ver told Irwin.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/2.1 Agrava Commission Forensic Findings.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Rebecca Quijano Statement After Being Approached By Col. Vicente Tigas Jr..png
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Opinion #2(1).PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ramos to Imelda Come clean on hidden wealth, Ninoy_s murder 2017.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Rebecca Quijano saw a military man shoot Ninoy on the bridge stairs.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Tulfo Counter by Esquire Comparisons shaky.pdf
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/2.8 Forensic Visual Sample.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Aquino Warned.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - 16 Soldiers Guilty Beyond Reasonable Doubt.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Salonge Statement on why Ninoy wants to Return.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0534.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0536.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0544.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0542.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0545.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0537.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0543.JPG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0533.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0538.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0539.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0540.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0533(1).PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0535.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0541.PNG
-- Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! Evidences for Criminal Case 10010 _ 10011.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Shoes, Jewels, and Monets.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Philippines to sell Imelda Marcos_s _ill-gotten_ jewels.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Imelda Marcos denies defrauding state.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/10 Billion Dollar Question.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Manila Awarded Marcos Millions.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Marcos Aide Convicted in Attempt to Sell Missing Paintings.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Imelda Marcos Is Sentenced to Decades in Prison for Corruption.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Imelda artworks seized.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Imee in Leak on Offshore Accounts.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Marcos Heads Corruption Table.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/ImeldaIconOfExcess.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/$21m worth of Imelda jewellery.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Imelda Marcos loses legal fight to reclaim confiscated jewellery.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Imelda Marcos_ jewels to go on sale.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Philippines seizes £17.6m.pdf
-- Lib/The Library/Imelda_s Jewels, Art, Excess/Imelda Arrest Ordered.pdf
-- Lib/The Library/Kill Count.JPG
-- Lib/The Library/Killings of Government Officials/Aeta Ka Freddy.JPG
-- Lib/The Library/Killings of Government Officials/Evelio Javier Was _Swifter Than Eagles and Stronger Than Lions_.pdf
-- Lib/The Library/Killings of Government Officials/Antique Evelio B Javier 1986.png
-- Lib/The Library/Killings of Government Officials/Pampanga Jose B Lingad 1980.PNG
-- Lib/The Library/Killings of Government Officials/Zamboanga Mayor Cesar Climaco 1984.pdf
-- Lib/The Library/Killings of Government Officials/ZLinks Killings of Government Officials.docx
-- Lib/The Library/Killings of Government Officials/Zamboanga Mayor Cesar Climaco 1984 Photo.jpg
-- Lib/The Library/Killings of Government Officials/Antique Evelio B Javier 1986 Photo.jpg
-- Lib/The Library/Killings of Government Officials/IP Macliing Dulag 1980.JPG
-- Lib/The Library/Escolta Sales Girl.JPG
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Golden Buddha Crop awarded $22 Billion and $1.45 Million.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Sandiganbayan orders Royal Traders Holding to pay gov’t P365-M in Marcoses’ bank deposits.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Court orders forfeiture of Marcos properties from dummy owner_2006.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/MANILA WINS RULING IN JERSEY ON MARCOS ESTATE AND CASH.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Bongbong Marcos charged guilty for 4 year Tax Evasion 1995.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Imelda Marcos disqualified from holding office after corruption conviction 2018.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Marcoses Barred From US entry Refusal to pay $2 Billion to 9,539 Victims.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Disini High court affirms cases vs Marcos crony Disini _ Inquirer News.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Imelda guilty found guilty of creating private foundations in Switzerland from 1978 to 1984. Charged with 8 counts of graft. 2018.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Imelda Marcos loses legal fight to reclaim confiscated jewellery.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Manuel Nieto, Jr., Martial Law crony, to return P2.95 Billion to the Republic of the Philippines 2019.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/$22B Award Against Marcos Reduced.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Disini Marcos crony owes country P1.1-B over BNPP project.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Swiss Banks Ordered to Give Marcos Millions to Philippines AP News-converted.pdf
-- Lib/The Library/Cases Legal Fights Marcoses Lost/Contempt case lost by Marcoses $354-M award to human rights victims (Refusing to award $2 billion to 9539 Filipinos).pdf
-- Lib/The Library/T Beatles/The Beatles leave the Philippines 5 July 1966 Beatles Bible.pdf
-- Lib/The Library/T Beatles/Beatles Story.pdf
-- Lib/The Library/T Beatles/Beatles-in-Manila.jpg
-- Lib/The Library/T Beatles/Beatles in Manila.mp4
-- Lib/The Library/T Beatles/Beatles.JPG
-- Lib/The Library/T Beatles/The Beatles_ Worst Nightmare in Manila.pdf
-- Lib/The Library/T Beatles/Z Beatles.docx
-- Lib/The Library/IMG_9485.PNG
-- Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/PCGG ACCOMPLISHMENTS.docx
-- Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/2019-PCGG-Year-End-Accomplishment-Report.pdf
-- Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/2020-PCGG-Accomplishment-Report.pdf
-- Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/PCGG ACCOMPLISHMENTS.JPG
-- Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/PCGG Accomplishments 1986-2020.docx
-- Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/PCGG Won and Adverse Judgements from 1986 -2020.docx
-- Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/2016-PCGG-Year-End-Accomplishment-Report.pdf
-- Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/PCGG Evidence.JPG
-- Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/List of Cases Filed Against BBM.pdf
-- Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/IMG_9137.PNG
-- Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/2018-PCGG-Year-End-Accomplishment-Report.pdf
-- Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/IMG_8958.PNG
-- Lib/The Library/Moro Muslim Rebellion/Philippine Human Development Report 2005.pdf
-- Lib/The Library/Moro Muslim Rebellion/IMG_9745.PNG
-- Lib/The Library/Moro Muslim Rebellion/The Origins of the Muslim Separatist Movement in the Philippines _ Asia Society.pdf
-- Lib/The Library/Peso to Dollar Values/The Philippine Economy in the Martial Law Years Cesar Polvorosa Jr.pdf
-- Lib/The Library/Peso to Dollar Values/IMG_7574.PNG
-- Lib/The Library/Peso to Dollar Values/Historical Average FX Peso Dollar.png
-- Lib/The Library/Peso to Dollar Values/MARCOS FREEZES PRICES AND PAY RATE 1983.pdf
-- Lib/The Library/Peso to Dollar Values/FX Rates 1965 onward.png
-- Lib/The Library/Famine Hunger Poverty in Martial Law/F-SUGAR-CHOKED ISLAND STARVING – Chicago Tribune.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/Presidential Decree No. 772 Squatting Criminal Offence.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/Copy of ADDRESS OF HIS HOLINESS JOHN PAUL II TO THE POOR PEOPLE OF THE DISTRICT OF TONDO.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/! Percentage of Malnutrition by Manapat.jpeg
-- Lib/The Library/Famine Hunger Poverty in Martial Law/P-Philippine slump drives rural poor to jobs in Manila 1-converted.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/F-IMG 1.JPG
-- Lib/The Library/Famine Hunger Poverty in Martial Law/44.2_ 1985 Poverty Rate - Philippine Statistics Authority.JPG
-- Lib/The Library/Famine Hunger Poverty in Martial Law/Ombudsman of the Philippines Poverty Assessment Marcos Admin.JPG
-- Lib/The Library/Famine Hunger Poverty in Martial Law/M Goods Prices Martial Law Museum.png
-- Lib/The Library/Famine Hunger Poverty in Martial Law/1985 Philippine Statistical Yearbook (PSY)(1).pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/F-USAID Nutritional Program.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/1895 Unemployment National Statistical Coordination Board.JPG
-- Lib/The Library/Famine Hunger Poverty in Martial Law/IMG_9184.PNG
-- Lib/The Library/Famine Hunger Poverty in Martial Law/Never forget the famine in Negros – Bantayog ng mga Bayani.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/59_ Poverty Rate in 1985 United Nations UNDSEA Data.JPG
-- Lib/The Library/Famine Hunger Poverty in Martial Law/F-Long Lines for Rice 1972 During the Rice Shortage.JPG
-- Lib/The Library/Famine Hunger Poverty in Martial Law/S-Imelda BLISS and Shanty Coverups.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/ADB Poverty Incidence and Gini Coefficient 44_ 1985.JPG
-- Lib/The Library/Famine Hunger Poverty in Martial Law/Z Links Poverty.docx
-- Lib/The Library/Famine Hunger Poverty in Martial Law/S-MANILA SQUATTERS ARE AN EYESORE FOR MRS MARCOS 1982.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/1985 Unemployment - Senate Probe.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/Philippines-human-rights-mission-report-1984-eng.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/IMF Poverty, Income Distribution, and Economic Policy in the Philippines.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/M Farmer Wages - Martial Law Museum.png
-- Lib/The Library/Famine Hunger Poverty in Martial Law/1985 Poverty - Philippine Statistics Authority.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/P-US Library - Philippine Poverty 1980s POVERTY AND WELFARE.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/F-The history behind Bacolod’s _smile_ _ Philippine News Agency.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/Ombudsman Rapid Assessment of Anti-Poverty Programs and Projects.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/59_ Poverty Rate in 1985 United Nations UNDSEA Source.JPG.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/F-Long lines for rice not the first time in RP history 2008.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/F-What_s Behind the Negros Famine Crisis.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/! UNICEF Negros Famine.png
-- Lib/The Library/Famine Hunger Poverty in Martial Law/12.6_ 1985 Unemployment Rate - Senate Probe.JPG
-- Lib/The Library/Famine Hunger Poverty in Martial Law/F-Hunger Crop.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/1_3 of Manila’s Population are Squatters.png
-- Lib/The Library/Famine Hunger Poverty in Martial Law/F-UNICEF Seven Decades of Upholding the Rights of Filipino Children.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/F-Philippines Facing Rice Famine  after poor weather, pest infestation of rice paddies, and flooding.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/ADB POVERTY IN THE PHILIPPINES CAUSES, CONSTRAINTS , AND OPPORTUNITIES.pdf
-- Lib/The Library/Famine Hunger Poverty in Martial Law/Joel Abong Malnutrition.jpg
-- Lib/The Library/Famine Hunger Poverty in Martial Law/F-USAID Food.jpg
-- Lib/The Library/Famine Hunger Poverty in Martial Law/M Poverty Incidence - Martial Law Museum.png
-- Lib/The Library/Famine Hunger Poverty in Martial Law/Poverty in the Philippines Our World in Data.PNG
-- Lib/The Library/IMG_9482.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/C - Timeline 2.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/The Troubled Presidency Of Corazon Aquino - The Washington Post.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/C - Timeline 1.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_9855.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/! A-NPA intro Why Fr Balweg is Wrong.docx
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_9856.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_9851.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_9068.JPG
-- Lib/The Library/! Cory NPA Coups Snap Elections/C - Timeline 4.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/C-CIA NPA Report.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/Court convicts 3 RAM members involved in Failed Cory Coup guilty in 1986 slay of unionist Olalia.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/! NDIIA SNAP ELECTIONS 1986 REPORT.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/! C-Cory NPA Oplan Lambat Bitag.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/Pagsuko ng mga rebelde sa Makati matapos ang kudeta ng Disyembre 1989 Mula sa aklat na Philippine Almanac.JPG
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_9852.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/! C-CIA NPA numbers Marcos 1985.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0956.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0955.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/! C-Cory’s NPA all-out war.png
-- Lib/The Library/! Cory NPA Coups Snap Elections/Rebel Clash Puts Aquino in New Crisis _ Philippines_ The battle leaves a dozen dead, including a general. The renegade governor who supported December coup attempt escapes arrest.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/! C-AFP NPA Population Showing Rise in Marcos and Drop in Cory.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/The Final Report of the Fact-Finding Commission_ VII_ Causes, Analysis, and Recommendations _ Official Gazette of the Republic of the Philippines.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/Pagkasunog ng General Headquarters ng Camp Aguinaldo, Agosto 1987 Mula sa aklat ng PCIJ na Kudeta A Challenge to Philippine Democracy.JPG
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0954.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0952.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/Isang madugo at malungkot na eksena sa isang rooftop sa Makati noong kudeta ng Disyembre 1989 Mula sa aklat ng PCIJ na Kudeta A Challenge to Philippine Democracy.JPG
-- Lib/The Library/! Cory NPA Coups Snap Elections/The Davide and Feliciano Reports.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/Mula sa aklat ng PCIJ na Kudeta A Challenge to Philippine Democracy.JPG
-- Lib/The Library/! Cory NPA Coups Snap Elections/MGA KUDETA SA ILALIM NG PANGULONG CORY XIAOTIME.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/Coup_s During Cory -1990 Gazette Report.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0950.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/3 RAM members guilty in ’86 Olalia, Alay-ay slays _ Inquirer News.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/Ang anak ng Pangulo na si Noynoy Aquino habang pinoprotektahan ang kanyang ina noong kudeta ng Disyembre 1989 Mula sa aklat ng PCIJ na Kudeta A Challenge to Philippine Democracy.JPG
-- Lib/The Library/! Cory NPA Coups Snap Elections/25-pagkasunog-ng-ghq-ng-armed-forces-sa-aguinaldo.webp
-- Lib/The Library/! Cory NPA Coups Snap Elections/C-Aquino Ramos came close to ending NPA insurgency.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/! C-NPA Cory All out War.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_9854.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0953.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/Election Violence in the Philippines FES.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/! C-Marcos Grew the NPA 1978-1986.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/Si Gringo Honasan at ang Reform the Armed Forces Movement o RAM. Mula sa aklat ng PCIJ na Kudeta A Challenge to Philippine Democracy.JPG
-- Lib/The Library/! Cory NPA Coups Snap Elections/Z Cory.docx
-- Lib/The Library/! Cory NPA Coups Snap Elections/ADB Assessment Cory.JPG
-- Lib/The Library/! Cory NPA Coups Snap Elections/C-Memories of sacrifice for the common good - BusinessWorld Online 2021.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/C - Timeline 3.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/! NDIAA Snap Election Report.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0951.PNG
-- Lib/The Library/! Cory NPA Coups Snap Elections/Screenshot 2021-12-19 at 12-25-10 Manila Standard - Google News Archive Search.png
-- Lib/The Library/! Cory NPA Coups Snap Elections/The Final Report of the Fact-Finding Commission_ I_ Coup d’Etat_ An Overview _ Official Gazette of the Republic of the Philippines.pdf
-- Lib/The Library/! Cory NPA Coups Snap Elections/C-The Communist Insurgency in the Philippines Tactics and Talks 2011.pdf
-- Lib/The Library/Imelda Bulgari Shopping Spree/Screen Shot 2021-09-22 at 10.37.30 PM.png
-- Lib/The Library/Imelda Bulgari Shopping Spree/Screen Shot 2021-09-22 at 10.37.55 PM.png
-- Lib/The Library/NPA Count.JPG
-- Lib/The Library/IMG_9755.HEIC
-- Lib/The Library/Marcos considers Martial Law 2 years earlier for Self-Preservation.JPG
-- Lib/The Library/Economy GDP during Martial Law/EP-Poverty in the Philippines.PNG
-- Lib/The Library/Economy GDP during Martial Law/E-Public Sector Deficit Consolidated.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-Inflation Rate.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-Imports.PNG
-- Lib/The Library/Economy GDP during Martial Law/E-GDP Growth Rates.JPG
-- Lib/The Library/Economy GDP during Martial Law/! Income Inequality.PNG
-- Lib/The Library/Economy GDP during Martial Law/E-Penn Philippine GDP _ GDP per capita.JPG
-- Lib/The Library/Economy GDP during Martial Law/IMF Philippines National Government Tax Revenue in Percent of GNP.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-Gross Savings.JPG
-- Lib/The Library/Economy GDP during Martial Law/! ASEAN GDP Per Capita 2100 (Indonesia, Philippines, Vietnam, Thailand...) (1950-2100).mp4
-- Lib/The Library/Economy GDP during Martial Law/IMF Philippines Gross National Savings.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-Exports.PNG
-- Lib/The Library/Economy GDP during Martial Law/E-Inflation Rate PSA.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-Interest in Payments of Foreign Debt.JPG
-- Lib/The Library/Economy GDP during Martial Law/C-World Economic Ranking.jpg
-- Lib/The Library/Economy GDP during Martial Law/44.2_ 1985 Poverty Rate - Philippine Statistics Authority.JPG
-- Lib/The Library/Economy GDP during Martial Law/A-Surveys suppressed by martial law 2012.pdf
-- Lib/The Library/Economy GDP during Martial Law/E-Capital Output Ratio.JPG
-- Lib/The Library/Economy GDP during Martial Law/EP-Land Area Philippines.PNG
-- Lib/The Library/Economy GDP during Martial Law/M Deforestation Martial Law Museum.png
-- Lib/The Library/Economy GDP during Martial Law/M Goods Prices Martial Law Museum.png
-- Lib/The Library/Economy GDP during Martial Law/Income Per Person.JPG
-- Lib/The Library/Economy GDP during Martial Law/59_ Poverty Rate in 1985 United Nations DSEA Data.JPG
-- Lib/The Library/Economy GDP during Martial Law/IMG_2123.JPG
-- Lib/The Library/Economy GDP during Martial Law/Debt Accrued per President.JPG
-- Lib/The Library/Economy GDP during Martial Law/1895 Unemployment National Statistical Coordination Board.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-Inflation GDP Philippines World Bank.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-Consumption Expenditure.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-Unemployment and Underemployment.JPG
-- Lib/The Library/Economy GDP during Martial Law/! E-GDP Growth.JPG
-- Lib/The Library/Economy GDP during Martial Law/! Stock Index Returns.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-GDP Growth.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-GDP per Capita.PNG
-- Lib/The Library/Economy GDP during Martial Law/Z Links Economy.docx
-- Lib/The Library/Economy GDP during Martial Law/! 1 Economy Intro.JPG
-- Lib/The Library/Economy GDP during Martial Law/Letter of Instruction No. 1307 1983 Crash.pdf
-- Lib/The Library/Economy GDP during Martial Law/E-Expenses.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-Exports.JPG
-- Lib/The Library/Economy GDP during Martial Law/Hindi ‘golden age’ ng ekonomiya ang Martial Law Sept 2021.pdf
-- Lib/The Library/Economy GDP during Martial Law/BSP Macroeconomic Policy Regimes in the Philippines.pdf
-- Lib/The Library/Economy GDP during Martial Law/M External Debt Martial Law Museum.png
-- Lib/The Library/Economy GDP during Martial Law/EP-Life Expectancy.PNG
-- Lib/The Library/Economy GDP during Martial Law/E-Labor and Productivity.JPG
-- Lib/The Library/Economy GDP during Martial Law/! Debt to GDP Ratio per president by Marco Pollo.PNG
-- Lib/The Library/Economy GDP during Martial Law/E-Philippines Annual GDP Growth.JPG
-- Lib/The Library/Economy GDP during Martial Law/! Economy in Martial Law Years Cesar Polvorosa Jr.pdf
-- Lib/The Library/Economy GDP during Martial Law/IMG_2325.JPG
-- Lib/The Library/Economy GDP during Martial Law/P-Copra Price World.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-Wages of Workers.JPG
-- Lib/The Library/Economy GDP during Martial Law/EP-Population.PNG
-- Lib/The Library/Economy GDP during Martial Law/Philippines Historical GDP 1960-1978.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-External Debt, Public Share, Debt.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-Capital Flight.JPG
-- Lib/The Library/Economy GDP during Martial Law/! Economy Intro.docx
-- Lib/The Library/Economy GDP during Martial Law/M Farmer Wages - Martial Law Museum.png
-- Lib/The Library/Economy GDP during Martial Law/E-Manufacturing Rates of Protection.JPG
-- Lib/The Library/Economy GDP during Martial Law/EP-Fertility Rate.PNG
-- Lib/The Library/Economy GDP during Martial Law/! Top 10 poorest countries Datawonder.mp4
-- Lib/The Library/Economy GDP during Martial Law/EC-GDP Comparison SEA.JPG
-- Lib/The Library/Economy GDP during Martial Law/GDP Per Year Marcos.jpg
-- Lib/The Library/Economy GDP during Martial Law/1980 42_ Poverty Rate.PNG
-- Lib/The Library/Economy GDP during Martial Law/Martial Law in Data _ Martial Law Museum.pdf
-- Lib/The Library/Economy GDP during Martial Law/EC-Growth Rate Comparison.JPG
-- Lib/The Library/Economy GDP during Martial Law/Mga Datos Tungkol sa Martial Law _ Martial Law Museum.pdf
-- Lib/The Library/Economy GDP during Martial Law/E-Indices of Peso-Dollar Exchange Rate.JPG
-- Lib/The Library/Economy GDP during Martial Law/M Raw Data MartialLawMuseum.xlsx
-- Lib/The Library/Economy GDP during Martial Law/E-Foreign Direct Investments.JPG
-- Lib/The Library/Economy GDP during Martial Law/Philippines Historical GDP 1978-1996.JPG
-- Lib/The Library/Economy GDP during Martial Law/! Cause of failure of Marcos Economy.JPG
-- Lib/The Library/Economy GDP during Martial Law/IMF Marcos Debt Crisis.pdf
-- Lib/The Library/Economy GDP during Martial Law/IMF Philippines Implementation of Fiscal Programs—Consolidated Public Sector Balance.JPG
-- Lib/The Library/Economy GDP during Martial Law/M Deforestation - Martial Law Museum.png
-- Lib/The Library/Economy GDP during Martial Law/A-Did the Declaration of Martial Law Stunt our Economic Growth A Causal Impact Analysis in Time Series Azcarraga, Arno Mikhail J..pdf
-- Lib/The Library/Economy GDP during Martial Law/E-Debt Short Term.JPG
-- Lib/The Library/Economy GDP during Martial Law/IMF Philippines External Debt.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-FDI Distribution.JPG
-- Lib/The Library/Economy GDP during Martial Law/12.6_ 1985 Unemployment Rate - Senate Probe.JPG
-- Lib/The Library/Economy GDP during Martial Law/Debt External PH Central Bank.JPG
-- Lib/The Library/Economy GDP during Martial Law/EP-Infant Mortality and Life Expectancy.JPG
-- Lib/The Library/Economy GDP during Martial Law/! GDP Growth.JPG
-- Lib/The Library/Economy GDP during Martial Law/EP-Death Rate Philippines .PNG
-- Lib/The Library/Economy GDP during Martial Law/Economical Comparison SoKor PH SG Thai 1965-1985.JPG
-- Lib/The Library/Economy GDP during Martial Law/! Debt to GDP Ratio per president by Marco Pollo Photo.png
-- Lib/The Library/Economy GDP during Martial Law/E-Account Surplus.JPG
-- Lib/The Library/Economy GDP during Martial Law/E-Poverty Incidence.JPG
-- Lib/The Library/Economy GDP during Martial Law/Loan Coffin Marcos Term.PNG
-- Lib/The Library/Economy GDP during Martial Law/! 1983 29_ Underemployment triples from 1978.PNG
-- Lib/The Library/Economy GDP during Martial Law/M Daily Wages Martial Law Museum.png
-- Lib/The Library/Economy GDP during Martial Law/P-Sugar Price World.JPG
-- Lib/The Library/Economy GDP during Martial Law/! Bankrupt Demand and Supply - Boo Chanco Feb 2022.pdf
-- Lib/The Library/Economy GDP during Martial Law/M Poverty Incidence - Martial Law Museum.png
-- Lib/The Library/Economy GDP during Martial Law/! [Paper] De Dios, Gochoco-Bautista, Punongbayan (2021). Martial Law and the Philippine Economy. UP School of Economics Discusion Papers 202107_.pdf
-- Lib/The Library/Election Protest Leni-Bongbong/IMG_9461.JPG
-- Lib/The Library/Election Protest Leni-Bongbong/Z Links Election Protest.docx
-- Lib/The Library/Election Protest Leni-Bongbong/TIMELINE_ The 4-year Robredo-Marcos poll case _ Inquirer News.pdf
-- Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/TAPES REVEAL MARCOS PLOT TO DEPOSE, CAPTURE AQUINO - The Washington Post.pdf
-- Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/Z Links Cory Hostage_.docx
-- Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/Taped Marcos Plotting Released_ _Going to Land_ in Philippines,_ He Says - Los Angeles Times.pdf
-- Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/BAKIT HINDI PINABALIK SI MARCOS, SR. SA PILIPINAS PARA MAHARAP ANG MGA KASO NIYA.pdf
-- Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/Marcos Tells Invasion Plan.pdf
-- Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/U.S. WARNS MARCOS AGAINST PLOTTING TO OVERTHROW AQUINO.pdf
-- Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/Armed Invasion Plot and Leak.mp4
-- Lib/The Library/T Ali-Frazier Fight/President-Ferdinand-Marcos-with-Muhammad-Ali-and-Joe-Frazier-at-Malacanang-Palace.webp
-- Lib/The Library/T Ali-Frazier Fight/$6.5 Million used to Distract Spiraling Martial Law.pdf
-- Lib/The Library/T Ali-Frazier Fight/Thrilla-in-Manila-promotional-poster.webp
-- Lib/The Library/T Ali-Frazier Fight/Sex, Money, and Muhammad Ali_ How ‘The King’ Conquered Manila.pdf
-- Lib/The Library/T Ali-Frazier Fight/Did our country really gain from Ali vs Frazier.pdf
-- Lib/The Library/T Ali-Frazier Fight/Ali Frazier Fight.JPG
-- Lib/The Library/T Ali-Frazier Fight/Z Link Ali Frazier.docx
-- Lib/The Library/T Ali-Frazier Fight/Why Thrilla in Manila was the equivalent in its day of handing the World Cup to Qatar.pdf
-- Lib/The Library/Bongbong Lazy Marcos.JPG
-- Lib/The Library/Massacres during Martial Law/Screenshot 2021-11-26 at 17-22-14 What Caring to Remember Means Community Transitional Justice - Blueboard by Ma Lourdes Ve[...].png
-- Lib/The Library/Massacres during Martial Law/Screenshot 2021-11-26 at 17-23-12 Escalante Massacre – Bantayog ng mga Bayani.png
-- Lib/The Library/Massacres during Martial Law/Screenshot 2021-11-26 at 17-19-18 UNPO Moro Philippines Recognizes Massacre.png
-- Lib/The Library/Massacres during Martial Law/Massacres.docx
-- Lib/The Library/Massacres during Martial Law/Screenshot 2021-11-26 at 17-49-23 langoni 9 detained girl and lay theologian cases raised at churchmilitary dialogue - ucan[...].png
-- Lib/The Library/IMG_9488.PNG
-- Lib/The Library/Z Pendings/IMG_0148.JPG
-- Lib/The Library/Z Pendings/IMG_0482.PNG
-- Lib/The Library/Z Pendings/RPReplay_Final1644810638.mp4
-- Lib/The Library/Z Pendings/IMG_0290.JPG
-- Lib/The Library/Z Pendings/Screenshot_20220219-001811_Facebook.jpg
-- Lib/The Library/Z Pendings/IMG_0177.JPG
-- Lib/The Library/Z Pendings/IMG_0142.PNG
-- Lib/The Library/Z Pendings/IMG_0488.PNG
-- Lib/The Library/Z Pendings/IMG_0249.JPG
-- Lib/The Library/Z Pendings/IMG_0498.PNG
-- Lib/The Library/Z Pendings/IMG_0487.PNG
-- Lib/The Library/Z Pendings/IMG_0555.JPG
-- Lib/The Library/Z Pendings/IMG_0250.JPG
-- Lib/The Library/Z Pendings/IMG_0178.JPG
-- Lib/The Library/Z Pendings/IMG_0339.mp4
-- Lib/The Library/Z Pendings/IMG_0493.PNG
-- Lib/The Library/Z Pendings/IMG_0289.PNG
-- Lib/The Library/Z Pendings/IMG_0245.JPG
-- Lib/The Library/Z Pendings/IMG_0338.mp4
-- Lib/The Library/Z Pendings/IMG_0247.JPG
-- Lib/The Library/Z Pendings/IMG_0750.PNG
-- Lib/The Library/Z Pendings/IMG_0811.PNG
-- Lib/The Library/Z Pendings/IMG_0340.PNG
-- Lib/The Library/Z Pendings/IMG_0497.JPG
-- Lib/The Library/Z Pendings/Screenshot_20220219-001747_Facebook.jpg
-- Lib/The Library/Z Pendings/IMG_0937.PNG
-- Lib/The Library/Z Pendings/IMG_0754.PNG
-- Lib/The Library/Z Pendings/IMG_0624.JPG
-- Lib/The Library/Z Pendings/IMG_0194.JPG
-- Lib/The Library/Z Pendings/IMG_0316.PNG
-- Lib/The Library/Z Pendings/IMG_0768.JPG
-- Lib/The Library/Z Pendings/IMG_0686.JPG
-- Lib/The Library/Z Pendings/IMG_0749.PNG
-- Lib/The Library/Z Pendings/Marcos sells government properties Chicago Tribune.jpeg
-- Lib/The Library/Z Pendings/IMG_0613.PNG
-- Lib/The Library/Z Pendings/Screenshot_20220219-001736_Facebook.jpg
-- Lib/The Library/Z Pendings/IMG_0251.PNG
-- Lib/The Library/Z Pendings/IMG_0248.JPG
-- Lib/The Library/Z Pendings/IMG_0323.JPG
-- Lib/The Library/Z Pendings/IMG_0652.PNG
-- Lib/The Library/Z Pendings/IMG_0769.JPG
-- Lib/The Library/Z Pendings/Photo 2022-03-05 01.17.15 AM.jpg
-- Lib/The Library/Z Pendings/Edifice Lead.jpeg
-- Lib/The Library/Z Pendings/IMG_0653.PNG
-- Lib/The Library/Z Pendings/00-1.jpg
-- Lib/The Library/Z Pendings/IMG_0642.JPG
-- Lib/The Library/Z Pendings/IMG_0489.PNG
-- Lib/The Library/Z Pendings/IMG_0342.PNG
-- Lib/The Library/Z Pendings/IMG_0258.JPG
-- Lib/The Library/Z Pendings/IMG_0294.JPG
-- Lib/The Library/Z Pendings/IMG_0288.JPG
-- Lib/The Library/Z Pendings/IMG_0556.JPG
-- Lib/The Library/Z Pendings/IMG_0643.JPG
-- Lib/The Library/Z Pendings/IMG_0351.JPG
-- Lib/The Library/Z Pendings/IMG_0233.PNG
-- Lib/The Library/Z Pendings/IMG_0363.PNG
-- Lib/The Library/Z Pendings/IMG_0507.PNG
-- Lib/The Library/Z Pendings/IMG_0287.PNG
-- Lib/The Library/Z Pendings/IMG_7694.PNG
-- Lib/The Library/Z Pendings/IMG_0752.PNG
-- Lib/The Library/Z Pendings/IMG_0483.PNG
-- Lib/The Library/Z Pendings/IMG_0481.PNG
-- Lib/The Library/Z Pendings/640px-West_Philippine_Sea.svg.png
-- Lib/The Library/Z Pendings/IMG_0491.PNG
-- Lib/The Library/Z Pendings/Screenshot_20220219-001752_Facebook.jpg
-- Lib/The Library/Z Pendings/IMG_0540.JPG
-- Lib/The Library/Z Pendings/IMG_0751.PNG
-- Lib/The Library/Z Pendings/IMG_0331.JPG
-- Lib/The Library/Z Pendings/IMG_0841.PNG
-- Lib/The Library/Z Pendings/IMG_0490.PNG
-- Lib/The Library/Z Pendings/IMG_0141.PNG
-- Lib/The Library/Z Pendings/IMG_0746.PNG
-- Lib/The Library/Z Pendings/IMG_0486.JPG
-- Lib/The Library/Z Pendings/IMG_0336.mp4
-- Lib/The Library/Z Pendings/IMG_0477.PNG
-- Lib/The Library/Z Pendings/IMG_0654.PNG
-- Lib/The Library/Z Pendings/IMG_0677.JPG
-- Lib/The Library/Z Pendings/IMG_0535.PNG
-- Lib/The Library/Z Pendings/IMG_0743.JPG
-- Lib/The Library/Z Pendings/IMG_0246.JPG
-- Lib/The Library/Z Pendings/IMG_0753.PNG
-- Lib/The Library/Z Pendings/Screenshot_20220219-001816_Facebook.jpg
-- Lib/The Library/Z Pendings/IMG_0544.JPG
-- Lib/The Library/Z Pendings/IMG_0842.PNG
-- Lib/The Library/Z Pendings/IMG_0682.PNG
-- Lib/The Library/Z Pendings/IMG_0480.PNG
-- Lib/The Library/Z Pendings/IMG_0254.PNG
-- Lib/The Library/Pro-Marcos Readings/Accomplishments.docx
-- Lib/The Library/Pro-Marcos Readings/Sainthood Postponed by Lewis E. Gleeck, Jr. (z-lib.org).pdf
-- Lib/The Library/Pro-Marcos Readings/Buried beside his mother.JPG
-- Lib/The Library/Pro-Marcos Readings/Joma behind Plaza Miranda bombing_ comrade _ Philippine News Agency.pdf
-- Lib/The Library/Pro-Marcos Readings/Shultz and the ‘Hit Men’ Destroyed the Philippines.pdf
-- Lib/The Library/Pro-Marcos Readings/Playboy Interview 1987.docx
-- Lib/The Library/Pro-Marcos Readings/IMG_8371.JPG
-- Lib/The Library/Pro-Marcos Readings/From the lips of a dying President By Salvador H. Laurel.pdf
-- Lib/The Library/Proclamation No. 1081, s. 1972 - PROCLAIMING A STATE OF MARTIAL LAW IN THE PHILIPPINES.pdf
-- Lib/The Library/13th Month Pay/[7] Cory Memorandum Order No. 28, s. 1986 - All employers are hereby required to pay all their rank-and-file employees a 13th month pay.pdf
-- Lib/The Library/13th Month Pay/[6] 1965 P1000 Adjusted for Inflation.PNG
-- Lib/The Library/13th Month Pay/Z Links 13th Month.docx
-- Lib/The Library/13th Month Pay/[4]1975 P1000 Adjusted for Inflation.PNG
-- Lib/The Library/13th Month Pay/! 13th Month Summary.PNG
-- Lib/The Library/13th Month Pay/Marcos does not include Government Employees recepients of 13th Month Pay.pdf
-- Lib/The Library/13th Month Pay/13th Month Pay Piece.png
-- Lib/The Library/13th Month Pay/[6] 1970 P1000 Adjusted for Inflation.PNG
-- Lib/The Library/13th Month Pay/[2] Marcos Presidential Decree No. 851, s. 1975 - Employers required to pay employees with basic salary of not more than P1,000 a month.pdf
-- Lib/The Library/13th Month Pay/[3]Existence of 13th Month Pay before Marcos’ Declaration.PNG
-- Lib/The Library/13th Month Pay/[1] Negrense labor leader, father of 13th month pay passes away.pdf
-- Lib/The Library/13th Month Pay/[9] Pnoy Republic Act No. 10653 - 2015 Increseas Tax-free Threshold for Bonuses and 13th Month from P30,000 to P82,000.pdf
-- Lib/The Library/13th Month Pay/REVISED GUIDELINES ON THE IMPLEMENTATION OF THE 13TH MONTH PAY LAW.pdf
-- Lib/The Library/13th Month Pay/[5] 1986 P1000 Adjusted for Inflation.PNG
-- Lib/The Library/13th Month Pay/IMPLEMENTATION OF THE 13TH MONTH PAY LAW.png
-- Lib/The Library/13th Month Pay/[8] Congress Includes Government Employess 1988.PNG
-- Lib/The Library/13th Month Pay/!13th Month Pay Tagalog-English Summary.docx
-- Lib/The Library/Japanese Marcos ODA Scandal/IMG_8659.PNG
-- Lib/The Library/Japanese Marcos ODA Scandal/Money Laundering Manapat 443.HEIC
-- Lib/The Library/Japanese Marcos ODA Scandal/Excerpt Civil_Society_in_Japan .pdf
-- Lib/The Library/Japanese Marcos ODA Scandal/Excerpt Global Corruption from a Geographic Perspective by Barney Warf.pdf
-- Lib/The Library/IMG_9486.PNG
-- Lib/The Library/IMG_0677.JPG
-- Lib/The Library/Government Property Selling/Did 1986 EDSA People Power caused privatization of gov’t firms context.pdf
-- Lib/The Library/Government Property Selling/Philippines Privatization Program PITO.pdf
-- Lib/The Library/Government Property Selling/Marcos sells government properties Chicago Tribune.JPG
-- Lib/The Library/Government Property Selling/Privatization Policy in the Philippines.pdf
-- Lib/The Library/Government Property Selling/Presidential Decree No. 2030, s.pdf
-- Lib/The Library/Government Property Selling/Z Government Selling.docx
-- Lib/The Library/CIA US Declassified Files/CIA - WASHINGTON CALLED SHOTS IN LAST HOURS.pdf
-- Lib/The Library/CIA US Declassified Files/CIA - 1974 with mention of Marcos personalizing the government..pdf
-- Lib/The Library/CIA US Declassified Files/CIA - REVOLUTION AND THE PHILIPPINES.pdf
-- Lib/The Library/CIA US Declassified Files/CIA - 1982 report, a year after lifting Martial law in 1981.pdf
-- Lib/The Library/CIA US Declassified Files/CIA - COVERT CIA NETWORK URGED IN PHILIPPINES.pdf
-- Lib/The Library/CIA US Declassified Files/CIA - Communist Insurgency in the Philippines Organization and Capabilities.pdf
-- Lib/The Library/CIA US Declassified Files/Z Links CIA.docx
-- Lib/The Library/CIA US Declassified Files/CIA - US Congress investigation on alleged Marcos New York propertie.pdf
-- Lib/The Library/CIA US Declassified Files/CIA - WHAT TO DO ABOUT MARCOS.pdf
-- Lib/The Library/CIA US Declassified Files/CIA - REAGAN IS ASKED TO URGE MARCOS TO STEP DOWN.pdf
-- Lib/The Library/CIA US Declassified Files/CIA - STRATEGIC, EMOTIONAL U.S. TIES ARE AT STAKE IN THE PHILIPPINES.pdf
-- Lib/The Library/CIA US Declassified Files/CIA - Thinking-the-unthinkable-fall-of-the-philippines.pdf
-- Lib/The Library/CIA US Declassified Files/CIA - Prospects for Revolution in the Philippines An Indicators Approach.pdf
-- Lib/The Library/Crushing Propaganda/Migrant-Worker-Case-Study-Final-12.2020-6.08.2021.pdf
-- Lib/The Library/Crushing Propaganda/Aquino brought PH economy ‘beyond everyone’s expectations’.pdf
-- Lib/The Library/Crushing Propaganda/85_ of Yolanda funds liquidated says DILG.pdf
-- Lib/The Library/Crushing Propaganda/Aquino World Bank.JPG
-- Lib/The Library/Crushing Propaganda/Yolanda showing support to Romualdez.JPG
-- Lib/The Library/Crushing Propaganda/Aquino signs Universal Health Care bill into law.pdf
-- Lib/The Library/Crushing Propaganda/Miriam YOUTH Volunteers Statement about BBM Campaign 2016.pdf
-- Lib/The Library/Crushing Propaganda/IMG_0563.PNG
-- Lib/The Library/Crushing Propaganda/IMG_0561.PNG
-- Lib/The Library/Crushing Propaganda/Marcos not highest bar performer.pdf
-- Lib/The Library/Crushing Propaganda/IMG_0560.mp4
-- Lib/The Library/Crushing Propaganda/Miriam Defensor Santiago goes against Marcos.png
-- Lib/The Library/Crushing Propaganda/8 things Juan Ponce Enrile, Bongbong Marcos got wrong about martial law Sept 2018.pdf
-- Lib/The Library/Crushing Propaganda/! LP Gold Shipment.PNG
-- Lib/The Library/Crushing Propaganda/Yolanda 1.PNG
-- Lib/The Library/Crushing Propaganda/Miriam on Martial Law, Only for Narcissism.mp4
-- Lib/The Library/Crushing Propaganda/Cory pays for Marcos Hospital Bills.JPG
-- Lib/The Library/Crushing Propaganda/Miriam Campaign Team Statements 3.png
-- Lib/The Library/Crushing Propaganda/PNoy Era Statistics.jpg
-- Lib/The Library/Crushing Propaganda/Cory Aquino government pays hospital bills of Marcos_ mom - UPI Archives.pdf
-- Lib/The Library/Crushing Propaganda/Yolanda 2.JPG
-- Lib/The Library/Crushing Propaganda/COA hits poor use of donated funds for ‘Yolanda,’ Marawi victims.pdf
-- Lib/The Library/Crushing Propaganda/Miriam MDS YOUTH Volunteers about BBM Campaign 2016 Photo.jpg
-- Lib/The Library/Crushing Propaganda/IMG_0111.PNG
-- Lib/The Library/Crushing Propaganda/Miriam Campaign Team Statements 1.png
-- Lib/The Library/Crushing Propaganda/IMG_0553.mp4
-- Lib/The Library/Crushing Propaganda/Miriam Campaign Team Statements 2.png
-- Lib/The Library/Crushing Propaganda/IMG_0562.PNG
-- Lib/The Library/Crushing Propaganda/Z Crushing Propaganda.docx
-- Lib/The Library/Crushing Propaganda/Miriam Sister Defensor Knack on Tandem.JPG
-- Lib/The Library/Crushing Propaganda/Cory Aquino’s Office to Pay Marcos Mother’s Hospital Bills.pdf
-- Lib/The Library/Crushing Propaganda/Miriam on Marcos Debt Worst presidency.JPG
-- Lib/The Library/Crushing Propaganda/Bakit ka galit sa LP.pdf
-- Lib/The Library/Crushing Propaganda/World Bank hails Philippines as next Asian _miracle_.pdf
-- Lib/The Library/Crushing Propaganda/IMG_0677.JPG
-- Lib/The Library/Crushing Propaganda/Aquino International Lending.JPG
-- Lib/The Library/Crushing Propaganda/IMG_0678.JPG
-- Lib/The Library/Crushing Propaganda/Aquino Progress.pdf
-- Lib/The Library/Imee Trajano Murder/Trajano v Marcos,  978 F 2d 493.pdf
-- Lib/The Library/Imee Trajano Murder/Imee Admits to Trajano Murder.pdf
-- Lib/The Library/IMG_0678.JPG
-- Lib/The Library/Documentaries Videos/Lifting of Martial Law, January 17, 1981.mp4
-- Lib/The Library/Documentaries Videos/A Malignant Spirit (1986).mp4
-- Lib/The Library/Documentaries Videos/Footages from EDSA People Power Revolution 1986.mp4
-- Lib/The Library/T World Chess Championship1978/Queen’s Gambit in Baguio, 1978.pdf
-- Lib/The Library/T World Chess Championship1978/Z Links Chess.docx
-- Lib/The Library/T World Chess Championship1978/The Wacky 1978 Chess World Championship — Positively Filipino _ Online Magazine for Filipinos in the Diaspora.pdf
-- Lib/The Library/T World Chess Championship1978/The World Chess Championship And the Mystery of Baguio City - The New York Times.pdf
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/! OFFICIAL MESSAGE OF HIS HOLINESS JOHN PAUL II TO THE PRESIDENT AND TO THE PEOPLE OF THE PHILIPPINES 1981.pdf
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Pope 1970 Visit Tondo 2.JPG
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Tondo Crowd 1981.jpg
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/MANILA BEAUTIFIES SLUM FOR THE POPE.pdf
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Pope IMG 1.JPG
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/One can never justify any violation of rights John Paul II stands up to a dictator .pdf
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Pope in Manila Declares Rights Must Be Uphled.pdf
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/OFFICIAL ADDRESS OF HIS HOLINESS JOHN PAUL II TO LANDOWNERS AND WORKERS OF SUGAR CANE PLANTATIONS.pdf
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Message of Pope John Paul II upon His arrival in the Philippines, February 17, 1981.pdf
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Pope 1970 Visit Tondo.JPG
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Imelda we are so poor. All we have is coconuts and bamboo. You know what I did I did a bamboo mansion and a coconut palace.mp4
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/POPE, WITH MARCOS BESIDE HIM, DELIVERS HUMAN RIGHTS TALK.pdf
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/IMG_7697.JPG
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Pope rejects Coconut Palace.pdf
-- Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/ADDRESS OF HIS HOLINESS JOHN PAUL II TO THE POOR PEOPLE OF THE DISTRICT OF TONDO.pdf
-- Lib/The Library/Cult of Marcos and other Narcissisms/Edifice Complex_ Building on the Backs of the Filipino People _ Martial Law Museum.pdf
-- Lib/The Library/Cult of Marcos and other Narcissisms/Head Photo by RJ_celts623.jpg
-- Lib/The Library/Cult of Marcos and other Narcissisms/Cult Marcos Seen As Saint By Cult Members The Seattle Times-converted.pdf
-- Lib/The Library/Cult of Marcos and other Narcissisms/Cults Began as Political Weapon, Ended Up Deifying Ferdinand Marcos.pdf
-- Lib/The Library/Cult of Marcos and other Narcissisms/Cult Marcos Praised and Worshipped.mp4
-- Lib/The Library/Cult of Marcos and other Narcissisms/Head Marcos.webp
-- Lib/The Library/Cult of Marcos and other Narcissisms/Peso Marcos Ordered Face on Coin.JPG
-- Lib/The Library/Cult of Marcos and other Narcissisms/Head Marcos Erected for Himself.PNG
-- Lib/The Library/Cult of Marcos and other Narcissisms/CultPhilippines cult idolises Marcos.pdf
-- Lib/The Library/Cult of Marcos and other Narcissisms/Cult Photo.JPG
-- Lib/The Library/Cult of Marcos and other Narcissisms/Head Defaced .jpg
-- Lib/! QR Code PDF.pdf
-- Lib/! About the Martial Law Library.docx
-- Lib/[Book] Mijares, Primitivo (1976). The Conjugal Dictatorship of Ferdinand and Imelda Marcos (Reprint, 1st ed.). Tatay Jobo Elizes..pdf
-- Lib/! QR Code ML Library.PNG
+- `Lib/[Paper] Mendoza, Paras, _ Bertulfo (2016). The Bataan Nuclear Power Plant in the Philippines_ Lessons from a White Elephant Project. Ateneo School of Government Working Paper 16001. .pdf`
+- `Lib/SHA256SUM`
+- `Lib/[Paper] De Dios, Gochoco-Bautista, _ Punongbayan (2021). Martial Law and the Philippine Economy. UP School of Economics Discusion Papers 202107..pdf`
+- `Lib/The Library/Surveys suppressed by martial law 2012.pdf`
+- `Lib/The Library/IMG_9490.PNG`
+- `Lib/The Library/Cronies/Crony List - A Malignant Spirit.mp4`
+- `Lib/The Library/Cronies/Remulla No Strike No Union.jpg`
+- `Lib/The Library/Cronies/pcgg-marcos-wealth-civil-cases-table-20160223.jpg`
+- `Lib/The Library/Cronies/Anos Fonacier surrendered the assets but had disposed of the assets long before the settlement was signed.pdf`
+- `Lib/The Library/Cronies/Search for Marcos_ wealth Compromising with cronies.pdf`
+- `Lib/The Library/Cronies/Manuel Nieto, Jr., Martial Law crony, to return P2.95 Billion to the Republic of the Philippines 2019.pdf`
+- `Lib/The Library/Imelda Party Pest.JPG`
+- `Lib/The Library/Bataan Nuclear Power Plant/BNPP Near Volcano.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/BNPP Near Fault Line.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/Three Mile Island 1979 USNRC.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/E - Westinghouse Rewriting Specifications.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/CNN - THE $2.2 BILLION NUCLEAR FIASCO.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/! [Paper] Mendoza, Paras, _ Bertulfo (2016). The Bataan Nuclear Power Plant in the Philippines_ Lessons from a White Elephant Project. Ateneo School of Government Working Paper 16001._`
+- `Lib/The Library/Bataan Nuclear Power Plant/! Nuclear Background.mp4`
+- `Lib/The Library/Bataan Nuclear Power Plant/! Timeline 2.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/! Timeline 3.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/Late Marcos crony owes country P1.1-B over BNPP project.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/High court affirms cases vs Marcos crony Disini _ Inquirer News.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/CNN-1 Westinghouse.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/! Westinghouse Settlement.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/IMG_0936.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/I - Honeycombing and Exposed Rebars.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/E - Comparison to Coal Fired Plants.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/IAEA Reviews the Philippines_ Nuclear Power Infrastructure Development 2018.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/E - Burden to Total Annual Budget.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/I - Defects and unresolved safety issues.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/E - IAEA recommended Batac but they built at Napot.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/C - Disini received commissions and awarded contracts to businesses he owns.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/R - South Korea’s offer to rehabilitate Bataan Nuclear Power Plant still stands, says PNRI exec.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/IMG_0931.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/E - $500 Million for Two to $1.1 Billion for One.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/X Links BNPP.docx`
+- `Lib/The Library/Bataan Nuclear Power Plant/IMG_0930.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/Chernobyl 1986.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/IAEA - A PRIMER ON THE BATAAN NUCLEAR.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/I - Hazard to Health and Safety and outmodeled.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/E - Burden Comparison to Water and Housing.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/CNN-1 Westinghouse Bribery Record.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/! 1979 Marcos declares BNPP unsafe 957.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/E - Recommendations of Safety set aside for safer options.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/C - Disini Received 3_ commission, Provided no substantial contribution to BNPP, Two payments to AI not in accounting.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/Opinion 1.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/IMG_0932.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/! Timeline 1.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/! C - GR No. 205172 Disini earned illegal commission.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/E - Disini companies awarded without bidding.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/CNN-2 Jesus Vergara interview.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/E - Burden End of Debt Payment.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/C - Disini unjust enrichment.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/CNN THE $2.2 BILLION NUCLEAR FIASCO Westinghouse_s Philippine power plant is a management nightmare.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/C - Court Verdict P1.1 Billion favoring PH Republic.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/I - Background.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/IMG_0929.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/Revisiting the Nuclear Option in the Philippines J Yap 2020.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/IAEA says PH still not ready for full nuclear energy program 2019.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/Letter of Instruction No. 876, s. 1979 - Inquiry on the safety of the Bataan Nuclear Power Plant.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/C - Disini earned commissions with evidence on record.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/E - Rent Seeking Behavior.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/IMG_0934.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/4000 Defects.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/I - Defective Areas cover 30_ of interior surface, Deep Voids caused by Air Entrapment.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/How they built the Bataan Nuclear Power Plant - Kevin Rodolfo.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/I - An Inquiry on Safety 1979.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/Letter of Instruction No. 957, s. 1979 - Bataan Nuclear Plant is not safe.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/E - Burden of Debt Payment.PNG`
+- `Lib/The Library/Bataan Nuclear Power Plant/R - Khovaev, Russian Ambassador, BNPP beyond revival.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/IAEA Delivers Report on Nuclear Power Infrastructure Development to the Philippines 2019.pdf`
+- `Lib/The Library/Bataan Nuclear Power Plant/E - 1976 Training started originally.PNG`
+- `Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/IMG_9798.HEIC`
+- `Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/M Deforestation Martial Law Museum.png`
+- `Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/IMG_9002.JPG`
+- `Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/IMG_9797.HEIC`
+- `Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/Ransacked Forest Cover.JPG`
+- `Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/IMG_9799.HEIC`
+- `Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/The Politics of Logging in the Philippines by Marites Danguilan Vitug.pdf`
+- `Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/IMG_9796.HEIC`
+- `Lib/The Library/Deforestation Oversupplying of Logging Licenses by JPE/M Deforestation - Martial Law Museum.png`
+- `Lib/The Library/Meralco Seizure/NYTimes Lopez feud with Marcos.pdf`
+- `Lib/The Library/Meralco Seizure/History of Meralco.pdf`
+- `Lib/The Library/Meralco Seizure/General Order No. 70 ALL PRIVATE CORPORATIONS OR COMPANIES UNDER SEQUESTRATION 1972.pdf`
+- `Lib/The Library/Meralco Seizure/Meralco was sold to Marcos under duress.pdf`
+- `Lib/The Library/Meralco Seizure/Statement of Oscar M. Lopez on charges made by Juan Ponce Enrile.pdf`
+- `Lib/The Library/Bangui Windmills/Philippine Wind Farm Analysis 2000.pdf`
+- `Lib/The Library/Bangui Windmills/5 barangay council endorsements and mayor’s endorsement for Bangui.pdf`
+- `Lib/The Library/Bangui Windmills/Z Links Bangui Windmills.docx`
+- `Lib/The Library/Bangui Windmills/PROTOTYPE CARBON FUND IN THE AMOUNT OF USD 1.5 MILLION TO THE NORTHWIND POWER DEVELOPMENT CORPORATION FOR A NORTHWIND BANGUI BAY PROJECT.pdf`
+- `Lib/The Library/Bangui Windmills/World Bank to Northwind Power Dev.pdf`
+- `Lib/The Library/Bangui Windmills/Development Projects _ Philippines_ Northwind Bangui Bay Project - P087464.pdf`
+- `Lib/The Library/Bangui Windmills/Philstar Bangui Source of Funding.pdf`
+- `Lib/The Library/Bangui Windmills/IMG_0101.PNG`
+- `Lib/The Library/Bangui Windmills/Source of Funding Bangui Windmills.pdf`
+- `Lib/The Library/Bangui Windmills/RPReplay_Final1636357568.mp4`
+- `Lib/The Library/Bangui Windmills/Philippine Assets - ACEN.pdf`
+- `Lib/The Library/Bangui Windmills/First Gen - Wind.pdf`
+- `Lib/The Library/Bangui Windmills/IMG_0102.PNG`
+- `Lib/The Library/Bangui Windmills/Bangui Complete Documents.pdf`
+- `Lib/The Library/martial-law-editorial-cartoons_21630385432_o.jpg`
+- `Lib/The Library/IMG_9754.HEIC`
+- `Lib/The Library/! Mendiola Massacre 1987/Mendiola Events Alfredo Lim Inquirer 2008.pdf`
+- `Lib/The Library/Buried beside his mother.JPG`
+- `Lib/The Library/IMG_1266.JPG`
+- `Lib/The Library/Ferdinand E. Marcos First State of the Nation Address, January 24, 1966 GOVPH.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Marcos 1950 Borrowing Money Totalling 130,000 pesos.JPG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Marcos Net Income.PNG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/! FEM background.JPG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_9504.JPG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Z Links Imelda Guilty.docx`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_9546.PNG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Court says Ill-gotten is illegal.JPG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Imelda Marcos disqualified from holding office after corruption conviction 2018.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_0890.JPG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/7 Criminal Charges.png`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_0598.PNG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/! UN AFEI Sources of Marcos Wealth.PNG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/! Schweizeresche Kreditanstalt.PNG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_0570.JPG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/New Documents List $229 Million in Marcos Money.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Marcos 1950 Borrowing Money Totalling 130,000 pesos Photo.JPG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_9771.HEIC`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Imee, Bongbong Marcos were beneficiaries of illegal Swiss foundations.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/PD 1726 Treasure Hunting.PNG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Case Criminal Cases.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Right of Accused to Appeal.PNG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Case Evidence.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Opinion.png`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/That Marcos Foundation, January 31, 1970 Locsin.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Civil Criminal.jpg`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/! Business, Not A Foundation .PNG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/If Marcos never saw gold, why tell court gold was their source of wealth Rappler Mar 7, 2022.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_9547.PNG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Sandiganbayan Swiss ‘foundations’ set up to benefit Marcos family.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_2297.JPG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_2134.JPG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Gold price 1950 - 1959.png`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Marcos Foundation Opened.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Court magnanakaw RA 1379.JPG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Ramos to Imelda Come clean on hidden wealth, Ninoy_s murder.mp4`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/10 Questions for Marcos Jr - Ruben Carranza Former PCGG Head 2022.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Imelda guilty found guilty of creating private foundations in Switzerland from 1978 to 1984. Charged with 8 counts of graft. 2018.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Marcoses rob their own property after being frozen.jpg`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_9770.HEIC`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/IMG_9772.HEIC`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/RECORDS REBUT REAGAN_S COMMENT ON HOW MARCOS MADE HIS MONEY, FILIPINO SAYS - The New York Times 1986.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/1986_SwissBanksFreezeMarcosAccounts.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/PCGG Bongbong blocked return of $40M to gov’t.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/! Prima Facie that wealth is illega prevails.PNG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/RECOVERING FERDINAND MARCOS’ STOLEN ASSETS IN SWITZERLAND Daniel Thelesklaf Page 14.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/Ramos to Imelda Come clean on hidden wealth, Ninoy_s murder.pdf`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/RA 1379 Ill-Gotten Wealth Act.PNG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/CJ Panganiban Statement.JPG`
+- `Lib/The Library/Cases Imelda Guilty Swiss Graft/! Guilty beyond reasonable doubt.PNG`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/Z Links Golden Buddha.docx`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/$22B Award Against Marcos Reversed AP News 1-converted.pdf`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/Japanese and U.S. World War II Plunder and Intrigue.pdf`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/Decades-old legal battle over golden Buddha statue comes to Manhattan-converted.pdf`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/Katotohanan sa _golden buddha_.pdf`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/The Golden Buddha and the Marcos millions_ The legend of Yamashita_s treasure 2017.pdf`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/Golden Buddha.JPG`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/Estate of Roxas v 2005.pdf`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/FORMER GREEN BERET LEADING HUNT FOR TREASURE IN MANILA - The Washington Post.pdf`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/Lost Buddha 1986.pdf`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/Buddha Rogelio.JPG`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/How a Locksmith, a Dictator and a WWII General Are Connected to $22 Billion in Lost Treasure - HISTORY.pdf`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/ROXAS v Marcos 1998 Case.pdf`
+- `Lib/The Library/Golden Buddha Rogelio Roxas Case/Roxas v Marcos 1998.pdf`
+- `Lib/The Library/Edifice Complex/29 things about EDSA you may or may not know _ Coconuts Manila.pdf`
+- `Lib/The Library/Edifice Complex/Mt Sungay Lead.JPG`
+- `Lib/The Library/Edifice Complex/Edifice Lead 1.JPG`
+- `Lib/The Library/Edifice Complex/This is what EDSA looked like in traffic-free times.pdf`
+- `Lib/The Library/Edifice Complex/Imelda Marcos and her ‘edifice complex’.pdf`
+- `Lib/The Library/Edifice Complex/Z Link Edifice.docx`
+- `Lib/The Library/Edifice Complex/IMG_0141.PNG`
+- `Lib/The Library/Edifice Complex/Edifice Lead.JPG`
+- `Lib/The Library/Edifice Complex/Book Review_ Edifice Complex_ Power, Myth, and the Marcos State Architecture by Gerard Lico _ Philippine Art, Culture and Antiquities.pdf`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 463.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 440.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/GUILTY MONEY LAUNDERING Helen Rivilla.png`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 481.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 423.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 437.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_0938.PNG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 458.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 460.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 532.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 452.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Credit Suisse leak unmasks criminals, fraudsters and corrupt politicians _ Credit Suisse _ The Guardian 2022.pdf`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 447.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 465.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Helen Rivilla for money laundering held 8 million francs in Swiss bank until 2006 Rappler.pdf`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/L Money Laundering.docx`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 438.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 450.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 484.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Z Manapat Ricardo Some Are Smarter Than Others 1991.jpg`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/! A.PNG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 483.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 454.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 485.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_0979.JPG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 534.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/A - U.S. AGENTS RAID HOME OF MARCOS SON-IN-LAW SEIZE ART AND ANTIQUES BELIEVED LOOTED.pdf`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/274376209_10159041796474671_3329315296460914801_n.jpg`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 446.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/A - Strange Tale In Search For Marcos Money 1989.pdf`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 451.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 430.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 442.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 530.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 464.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/! UN AFEI Sources of Marcos Wealth.PNG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 476.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 444.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 443.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/C-Marcoses rob their own property after being frozen.jpg`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 434.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 445.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 453.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_1182.PNG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 426.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 472.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/2003 SC declares wealth stolen.PNG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 531.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_0980.JPG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/A - Artwork Seized at U.S. Home of Marcos Kin.pdf`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 469.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/B-Swiss bank.jpg`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 529.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 428.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 470.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_0664.PNG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/C-Court magnanakaw RA 1379.JPG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 457.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/B-Marcos scribbles total.JPG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 432.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 436.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 461.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 471.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 475.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/C-Court says Ill-gotten is illegal.JPG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 465-A.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_2590.PNG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Helen Rivilla Connection.jpg`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/B-Swiss bank Jane Ryans.jpg`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 459.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 479.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 473.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 435.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 429.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 441.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/$10bn question_ what happened to the Marcos millions_ _ Philippines _ The Guardian.pdf`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 449.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 533.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 474.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 448.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 427.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Helen Present as Marcos Lawyer.jpg`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Bongbong Marcos confirmed had direct hand in withdrawing US$213M from a Swiss bank in 1986.pdf`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 424.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 478.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_2268.PNG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Helen Teodoro Rivilla and husband face prison and $23.5 million in fines.pdf`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Helen Rivilla Accounts.webp`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/274367412_10159041796304671_4325062197360817459_n.jpg`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 439.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 456.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 487.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/C - Imelda’s admission as stolen.jpg`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 535.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Money Laundering.PNG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 465-B.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 455.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 482.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/H - Helen Rivilla Accounts.JPG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 468.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_0919.JPG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 480.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 466.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/! Swiss Court Illegal Origin.PNG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 462.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_2591.PNG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_0937.JPG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_2729.JPG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 425.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 486.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 433.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 431.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 467.HEIC`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/! Only I know where the gold is.JPG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/C-10 Questions for Marcos Jr - Ruben Carranza Former PCGG Head 2022.pdf`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Helen Rivilla for money laundering held 8 million francs in Swiss bank until 2006 Rappler.pdf`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/IMG_2269.PNG`
+- `Lib/The Library/! Marcos Money Laundering Source of Wealth/Money Laundering Manapat 477.HEIC`
+- `Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /Policy Developments in the 1980s.pdf`
+- `Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /The Roots of the Philippines_ Economic Troubles.pdf`
+- `Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /Philippine-Electoral-Almanac-May-10-spreads66-723x1024.jpg`
+- `Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /PIDS IMF STABILIZATION PROGRAM AND ECONOMIC GROWTH THE CASE OF THE PHILIPPINES.pdf`
+- `Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /Debt Crisis and Adjustment in the Philippines.pdf`
+- `Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /World Bank World Development Report 1983.pdf`
+- `Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /Floating Peso Cheers Manila 6.40 Peso per Dollar 1971.pdf`
+- `Lib/The Library/Ongoing Research Topics/1969 Peso Crash Campaign for Marcos Reelection /Video 1.mov`
+- `Lib/The Library/Ongoing Research Topics/Calauit Island Safari Palawan/IMG_8930.JPG`
+- `Lib/The Library/Ongoing Research Topics/Calauit Island Safari Palawan/IMG_8931.JPG`
+- `Lib/The Library/Ongoing Research Topics/Calauit Island Safari Palawan/IMG_8929.JPG`
+- `Lib/The Library/Imelda Oligarch.jpeg`
+- `Lib/The Library/Z Links Consolidated.docx`
+- `Lib/The Library/8 things Juan Ponce Enrile, Bongbong Marcos got wrong about martial law Sept 2018.pdf`
+- `Lib/The Library/U.S. AUTHORITIES LIFT ORDER RESTRICTING MARCOS_S TRAVEL.pdf`
+- `Lib/The Library/IMELDA OLIGARCH Reference needs correction.png`
+- `Lib/The Library/IMG_9489.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Gold 8000 tons height scale.jpg`
+- `Lib/The Library/Tallano Gold Marcos Gold/Fake Last Will and Testament 3.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Hudes World Bank discrediting.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Tallano So-called Origins 1.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Debunking Asian Dollar.mp4`
+- `Lib/The Library/Tallano Gold Marcos Gold/Rita Gadi.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Gold 1.75M tons!.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Rizal Death.jpg`
+- `Lib/The Library/Tallano Gold Marcos Gold/! Ferdinand Borrowing Money 1950 Totalling 130,000 pesos.JPG`
+- `Lib/The Library/Tallano Gold Marcos Gold/IMG_0261.JPG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Hudes Mentioning Rizal.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/The Richest Person Every Decade From 1820 to the Present.pdf`
+- `Lib/The Library/Tallano Gold Marcos Gold/Imelda Fake Documents 2.mp4`
+- `Lib/The Library/Tallano Gold Marcos Gold/Gold Worldwide Total.JPG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Gold Solomon.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Rizal Fr Jose Antionio Diaz Jose Rizal True Identity.JPG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Debunked Rizal Fake Death Story.pdf`
+- `Lib/The Library/Tallano Gold Marcos Gold/Voice Over Videos on Youtube of Marcos Gold.mp4`
+- `Lib/The Library/Tallano Gold Marcos Gold/Fake Certificate 1.1.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Gold Bars Currently Held by World Powers.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Rizal Conflicting Photo.jpg`
+- `Lib/The Library/Tallano Gold Marcos Gold/That Marcos Foundation, January 31, 1970 Locsin.pdf`
+- `Lib/The Library/Tallano Gold Marcos Gold/Fake Certificate 2.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Gold Tallano Clan.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/! Ferdinand Borrowing Money in 1950130,000 inflation to 2020.JPG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Hudes World Bank Establishment Bretton Woods Conference.JPG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Official Gazette Marcos Foundation.pdf`
+- `Lib/The Library/Tallano Gold Marcos Gold/Z Links Tallano.docx`
+- `Lib/The Library/Tallano Gold Marcos Gold/Gold price 1950 - 1959.png`
+- `Lib/The Library/Tallano Gold Marcos Gold/Imee No idea about all the Gold.mp4`
+- `Lib/The Library/Tallano Gold Marcos Gold/Fake Last Will and Testament 4 Comedia de la libertad de España por Bernardo del Carpio 1579 Juan de la Cueva.JPG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Marcos Foundation Opened.pdf`
+- `Lib/The Library/Tallano Gold Marcos Gold/Fake Certificate 4.jpg`
+- `Lib/The Library/Tallano Gold Marcos Gold/Imelda Fake Documents Unable to Explain Properly Wealth.mp4`
+- `Lib/The Library/Tallano Gold Marcos Gold/Rizal Fr Jose Antionio Diaz Jose Rizal.jpg`
+- `Lib/The Library/Tallano Gold Marcos Gold/Fake Certificate 1.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Fake Last Will and Testament 2.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Imee No Idea about Gold.JPG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Fake The Untold Story of the Kingdom of the Maharlikans.pdf`
+- `Lib/The Library/Tallano Gold Marcos Gold/Rizal Fake Death Story.pdf`
+- `Lib/The Library/Tallano Gold Marcos Gold/Hudes Next News Network Fake News.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Debunking Marcos Wealth for Humanity.mp4`
+- `Lib/The Library/Tallano Gold Marcos Gold/Tallano So-called Origins.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Debunked The Untold Story of the Kingdom of the Maharlikans.pdf`
+- `Lib/The Library/Tallano Gold Marcos Gold/Fake Last Will and Testament 1.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Imelda Fake Documents.mp4`
+- `Lib/The Library/Tallano Gold Marcos Gold/Fake Certificate 3.PNG`
+- `Lib/The Library/Tallano Gold Marcos Gold/Hudes.mp4`
+- `Lib/The Library/Marcos First SONA 1966.pdf`
+- `Lib/The Library/Foreign Opinions/IMG_7771.JPG`
+- `Lib/The Library/Foreign Opinions/Reagan Statement.JPG`
+- `Lib/The Library/Foreign Opinions/What Singapore_s Founding Father Lee Kuan Yew Really Thought of the Marcos Regime.pdf`
+- `Lib/The Library/Foreign Opinions/Reagan Rebuttal by Salonga 1986.pdf`
+- `Lib/The Library/Foreign Opinions/IMG_7770.JPG`
+- `Lib/The Library/Foreign Opinions/Political Virtue and Economic Leadership- Lee Kuan Yew and Ferdinand Marcos Compared.pdf`
+- `Lib/The Library/Foreign Opinions/IMG_7769.JPG`
+- `Lib/The Library/Foreign Opinions/Z Links Foreign.docx`
+- `Lib/The Library/Foreign Opinions/15 things Lee Kuan Yew said about the Philippines.pdf`
+- `Lib/The Library/War Heroism Debunked WWII/A06_March 31 1948 Final Irrevocable Refusal.pdf`
+- `Lib/The Library/War Heroism Debunked WWII/A02_Dec 18 1945 Followup Letter from Marcos.pdf`
+- `Lib/The Library/War Heroism Debunked WWII/A01_August 18 1945 First Attempt for recognition by Marcos.pdf`
+- `Lib/The Library/War Heroism Debunked WWII/A03_June 7 1947 Letter by Brown to Marcos Denying Recognition.pdf`
+- `Lib/The Library/War Heroism Debunked WWII/A04_July 16 1947 Protest Telegram from Marcos.pdf`
+- `Lib/The Library/War Heroism Debunked WWII/IMG_0512.JPG`
+- `Lib/The Library/War Heroism Debunked WWII/A05_Dec 2 1947 Nine page Letter from Marcos.pdf`
+- `Lib/The Library/War Heroism Debunked WWII/Marcos Father Japanese Collaborator Executed as Traitor.pdf`
+- `Lib/The Library/War Heroism Debunked WWII/B_1947 Investigation in Response to Protest Telegram.pdf`
+- `Lib/The Library/War Heroism Debunked WWII/B_March 30 1948 Rebuttal from Curtis.pdf`
+- `Lib/The Library/JPE Edsa is Real Statement.PNG`
+- `Lib/The Library/Sereno Links/IMG_8316.JPG`
+- `Lib/The Library/Sereno Links/IMG_8347.PNG`
+- `Lib/The Library/Sereno Links/FAKE AUDIO BNPP NI MARCOS NAKIKIUSAP KAY CORY SA TAAS NG PRESYO NG KURYENTE.pdf`
+- `Lib/The Library/Sereno Links/IMG_8152.JPG`
+- `Lib/The Library/Sereno Links/IMG_8148.PNG`
+- `Lib/The Library/Sereno Links/IMG_8255.JPG`
+- `Lib/The Library/Sereno Links/Foreign Opinion on Marcos Corruption Sereno.pdf`
+- `Lib/The Library/Sereno Links/IMG_8147.JPG`
+- `Lib/The Library/Sereno Links/HINDI KAYANG PABULAANAN NA NINAKAWAN NI MARCOS ANG BAYAN Sereno.pdf`
+- `Lib/The Library/Sereno Links/TOTOO PO BA NA MAY TALLANO FAMILY, NA KING NG MAHARLIKA Sereno.pdf`
+- `Lib/The Library/Sereno Links/ASSASSINATION NI NINOY AQUINO Sereno.pdf`
+- `Lib/The Library/Sereno Links/IMG_8146.JPG`
+- `Lib/The Library/Sereno Links/IMG_8151.JPG`
+- `Lib/The Library/Sereno Links/POSIBLE BA YUNG KWENTO NG MARCOS GOLD MULA SA MGA TALLANO Sereno.pdf`
+- `Lib/The Library/Sereno Links/IMG_8154.JPG`
+- `Lib/The Library/Sereno Links/ODA Marcos Sereno.pdf`
+- `Lib/The Library/Sereno Links/IMG_7620.JPG`
+- `Lib/The Library/Sereno Links/BNPP Sereno.pdf`
+- `Lib/The Library/Sereno Links/TIMELINE NG PANTASYA UKOL SA YAMAN NA IPAMIMIGAY NG MGA MARCOS Sereno.pdf`
+- `Lib/The Library/Sereno Links/Marcos Fr. Diaz FAKE PO YUNG SINASABING RICHEST MAN IN THE WORLD Sereno.pdf`
+- `Lib/The Library/Sereno Links/IMG_8153.JPG`
+- `Lib/The Library/News Clippings/Sandiganbayan orders Royal Traders Holding to pay gov’t P365-M in Marcoses’ bank deposits.pdf`
+- `Lib/The Library/News Clippings/Marcos Liberal Party.JPG`
+- `Lib/The Library/News Clippings/Philippine Congress okays bill on payments to Martial Law human rights victims 2013.pdf`
+- `Lib/The Library/News Clippings/I was victimized by _unknown_ syndicate - Bongbong.pdf`
+- `Lib/The Library/News Clippings/Imee Marcos, sons tied to offshore trust in Caribbean Sintra Trust 2013.pdf`
+- `Lib/The Library/News Clippings/Imee, Bongbong Marcos were beneficiaries of illegal Swiss foundations.pdf`
+- `Lib/The Library/News Clippings/Gloria EDSA 1.JPG`
+- `Lib/The Library/News Clippings/Imelda No Knowledge of Sources of Husband’s wealth. Not Guilty 1990.pdf`
+- `Lib/The Library/News Clippings/Debt, deprivation and spoils of dictatorship 31 years of amnesia.pdf`
+- `Lib/The Library/News Clippings/Z Links News.docx`
+- `Lib/The Library/News Clippings/Marcoses Barred From US entry Refusal to pay $2 Billion to 9,539 Victims.pdf`
+- `Lib/The Library/News Clippings/UK Paper Marcos Jr Oxford Degree.JPG`
+- `Lib/The Library/News Clippings/Chronology of the Marcos Plunder - Asian Journal San Diego 2012.pdf`
+- `Lib/The Library/News Clippings/Imee Marcos Offshore Accounts 2002 British Virgin Islands Did not disclose Total Amount 2021.pdf`
+- `Lib/The Library/News Clippings/Imee Marcos, sons tied to offshore trust in Caribbean Sintra Trust 2013(1).pdf`
+- `Lib/The Library/News Clippings/Imee Marcos and her three sons on Panama Papers list 2016.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Waltzing With a Dictator The Marcoses and the Making of American Policy by Raymond Bonner.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/MartialLawAll.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Pintig.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/[Book] Mijares, Primitivo (1976). The Conjugal Dictatorship of Ferdinand and Imelda Marcos (Reprint, 1st ed.)..pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Amnesty International Report During Martial Law 1981.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Mito at Disimpormasyon by Ramon Guillermo.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Marcos_ Lovey Dovie by Hermie Rotea.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Marcos Martial Law Never Again by Raissa Robles.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Amnesty International Report 1975.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Economic Policymaking Under Marcos.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/32 The Marcos file - By Charles McDougald-compressed.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Martial Law Bibliography by Tom Walsh.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Conjugal_ Diosdado Macapagal Statement.PNG`
+- `Lib/The Library/Books, Reports, Scholarly Papers/National Historical Commission On Marcos Burial.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/DarkLegacy Human Rights Under Martial Law by Alfred Mc Coy.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/1973 Document on Safehouses and Treatment of Detainees.jpeg`
+- `Lib/The Library/Books, Reports, Scholarly Papers/A Country in Crisis,  A Report by Lawyers Commit.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/The Rise-and Fall of Ferdinand Marcos.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Narrating Human Rights in the Philippines by Rhea Abuso.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Z Links.docx`
+- `Lib/The Library/Books, Reports, Scholarly Papers/IMG_8948.JPG`
+- `Lib/The Library/Books, Reports, Scholarly Papers/An-Analysis-of-the-Philippine-Economic-Crisis.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/Marcos Dynasty by Sterling Seagrave.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Introduction to The Marcos Legacy_Economic Policy and Foreign Debt in the Philippines.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Paul D. Hutchcroft - Booty Capitalism_ The Politics of Banking in the Philippines (1998).pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/JMS_Rise and Fall of Marcos Fascist Dictatorship.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Cacique Democracy in the Philippines - Benedict Anderson - Copy.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Regime_Change_in_the_Philippines.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/ROBLES_SCMP_EMBARASSMENT OF RICHES.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/orca_share_media1584966426532.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/cherian1986_Change and Continuity in Philippine.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Marcos and the media.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[] Chua, Michael (). HARING_BAYAN_Democracy_and_People_Power_in_the_Philippines_By_Xiao_Chua.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Cu Unjieng, Nicole - FERDINAND MARCOS APOTHEOSIS OF THE PHILIPPINE HISTORICAL TRADITION.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Benigno Aquino Between Dictatorship and Revolution in the Philippines.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[] Chua, Michael (). Ang_Imeldific_By_Xiao_Chua.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Tadiar (2004). Fantasy-Production_ Sexual Economies and Other Philippine Consequences for the New World Order.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/McCOY - Torture and Impunity_ The U.S. Doctrine of Coercive Interrogation.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[Martial Law Diary and other papers] Danilo P. Vizmanos - Martial Law Diary (2003, Ken Inc.) - libgen.lc.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Militant Struggles and Anti-Imperialism in Resil Mojares_s The Freeman Columns.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Democratization and Stabilization in the Philippines.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Political Conjuncture and Scholarly Disjunctures_Reflections on the PH State Under Marcos.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Alfred McCoy - A Question of Torture_ CIA Interrogation, from the Cold War to the War on Terror (2007, St. Martins Press) - libgen.lc.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/reyes2018.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Bello, Walden. 1982. Development Debacle_ The World Bank in the Philippines.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/1977-1986 Detention and Defiance Against Dictatorship.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/JMS-The-Dangers-of-Reformism.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/orca_share_media1584966426541.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/orca_share_media1584966426602.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/The Philippines in 1983 Authoritarianism Beleaguered.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/orca_share_media1584974068883.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Misagh Parsa - States, Ideologies, and Social Revolutions_ A Comparative Analysis of Iran, Nicaragua, and the Philippines-Cambridge University Press (2000) (1).pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Rafael__Patronage_and_Pornography__Ideology_and_Spectatorship_in_the_Early_M.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[] Chua, Michael (). IMELDA_MAYNILA_BY_XIAO_CHUA.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[] Chua, Michael (). NINOY_AQUINO_LIWANAG_SA_DILIM_By_Xiao_Chua.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/McCoy (2009) - Policing America’s Empire The United States, the Philippines, and the Rise of the Surveillance State.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/orca_share_media1584966426556.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/kaul1978_THE MARCOS REGIME IN THE PHILIPPINES.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[] Chua, Michael (). TORTYUR_Human_Rights_Violations_During_The_Marcos_Regime_By_Xiao_Chua.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/Dovie Beams and Philippine Politics.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/claudio2010_Memories of the anti-Marcos.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/A Cruel Deception_1983.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/MARTIAL LAW IN THE PHILIPPINES_Research Guide.pdf`
+- `Lib/The Library/Books, Reports, Scholarly Papers/46 Unorganized Books/[] Chua, Michael (). ANG_ATING_PANAHON _Ang_Bayan_Mula_Pagkabansang_Republika_Hanggang_Kapangyarih_ng_Bayan_By_Xiao_Chua.pdf`
+- `Lib/The Library/Estate Tax/IMG_1188.JPG`
+- `Lib/The Library/Estate Tax/IMG_1190.JPG`
+- `Lib/The Library/Estate Tax/IMG_1189.JPG`
+- `Lib/The Library/Estate Tax/Tax BIR audit procedures.pdf`
+- `Lib/The Library/IMG_8965.JPG`
+- `Lib/The Library/!Victims of Martial Law/8.jpg`
+- `Lib/The Library/!Victims of Martial Law/! Prof Carlos Analyst comment about Martial Law Victims.mp4`
+- `Lib/The Library/!Victims of Martial Law/IMG_8479.JPG`
+- `Lib/The Library/!Victims of Martial Law/Screen Shot 2021-09-20 at 10.50.29 PM.png`
+- `Lib/The Library/!Victims of Martial Law/Philippine Congress okays bill on payments to Martial Law human rights victims 2013.pdf`
+- `Lib/The Library/!Victims of Martial Law/HILAO, Liliosa R.pdf`
+- `Lib/The Library/!Victims of Martial Law/The Heroes Who Fought Martial Law_ Liliosa Hilao _ Martial Law Museum.pdf`
+- `Lib/The Library/!Victims of Martial Law/11.jpg`
+- `Lib/The Library/!Victims of Martial Law/12.jpg`
+- `Lib/The Library/!Victims of Martial Law/H-Harry Roque Syllabus.JPG`
+- `Lib/The Library/!Victims of Martial Law/Screen Shot 2021-09-20 at 10.49.56 PM.png`
+- `Lib/The Library/!Victims of Martial Law/IMG_8480.JPG`
+- `Lib/The Library/!Victims of Martial Law/IMG_0563.PNG`
+- `Lib/The Library/!Victims of Martial Law/! Harry Roque.JPG`
+- `Lib/The Library/!Victims of Martial Law/IMG_0561.PNG`
+- `Lib/The Library/!Victims of Martial Law/4.jpg`
+- `Lib/The Library/!Victims of Martial Law/Bantayog.jpg`
+- `Lib/The Library/!Victims of Martial Law/Z Victims.docx`
+- `Lib/The Library/!Victims of Martial Law/Martial Law Marker.JPG`
+- `Lib/The Library/!Victims of Martial Law/10.jpg`
+- `Lib/The Library/!Victims of Martial Law/Marcos Jr Martial Law Victims only after Money.JPG`
+- `Lib/The Library/!Victims of Martial Law/6.jpg`
+- `Lib/The Library/!Victims of Martial Law/IMG_8478.JPG`
+- `Lib/The Library/!Victims of Martial Law/First Payments Are Made to Victims of Marcos Rule.pdf`
+- `Lib/The Library/!Victims of Martial Law/7.jpg`
+- `Lib/The Library/!Victims of Martial Law/Hilao v Marcos, 95-16779.pdf`
+- `Lib/The Library/!Victims of Martial Law/9.jpg`
+- `Lib/The Library/!Victims of Martial Law/640_2014_09_18_21_17_06.png`
+- `Lib/The Library/!Victims of Martial Law/! Harry Roque, former Human Rights Professor.mov`
+- `Lib/The Library/!Victims of Martial Law/Screen Shot 2021-09-20 at 10.51.07 PM.png`
+- `Lib/The Library/!Victims of Martial Law/2.jpg`
+- `Lib/The Library/!Victims of Martial Law/! Martial Law victims face the Youth.mp4`
+- `Lib/The Library/!Victims of Martial Law/14.jpg`
+- `Lib/The Library/!Victims of Martial Law/IMG_0815.JPG`
+- `Lib/The Library/!Victims of Martial Law/Martial Law Marker 2.jpg`
+- `Lib/The Library/!Victims of Martial Law/IMG_0562.PNG`
+- `Lib/The Library/!Victims of Martial Law/! Prof Contreras.mp4`
+- `Lib/The Library/!Victims of Martial Law/5.jpg`
+- `Lib/The Library/!Victims of Martial Law/10,000 FILIPINOS WIN $1.2 BILLION FROM MARCOS.pdf`
+- `Lib/The Library/!Victims of Martial Law/Screen Shot 2021-09-20 at 10.50.50 PM.png`
+- `Lib/The Library/!Victims of Martial Law/3.jpg`
+- `Lib/The Library/!Victims of Martial Law/1.jpg`
+- `Lib/The Library/!Victims of Martial Law/! Prof Contreras Analyst comment about Martial Law Victims.mp4.mp4`
+- `Lib/The Library/!Victims of Martial Law/IMG_0814.JPG`
+- `Lib/The Library/!Victims of Martial Law/Screen Shot 2021-09-20 at 10.51.22 PM.png`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/IMG_9244.JPG`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Ferdinand Marcos Britannica Biography.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/The long road to Marcos ill gotten wealth recovery_2018.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Where Marcos stashed multibillion loot.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Marcos Mansions_2006.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Imelda Court Case in US_Shoe time_1990.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Last Chance for the Philippines A corrupt dynasty, a guerrilla insurgency, U.S. military bases.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Ill gotten wealth_The role of the Iron Butterfly_1983.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Transparency International Global Corruption Report 2004.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/July 2003_Sandiganbayan Decision Proving Marcos Ill Gotten Wealth.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Marcos Ill Gotten Wealth_Greatest Loot In History by Charlie Avila.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Imelda_s Mansion renovated_2015.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Marcos Papers Show Global Financial Web.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Marcos_s Paper Trail_1986.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/IMG_7889.JPG`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Debt, deprivation and spoils of dictatorship 31 years of amnesia.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/1986_The Philippines- Anatomy of a Looting.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/PCGG Bongbong blocked return of $40M to gov’t-converted.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Guiness Book of World Records/Screen Shot 2021-09-21 at 7.09.21 PM.png`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Guiness Book of World Records/Screen Shot 2021-09-21 at 7.09.06 PM.png`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Ill Gotten Wealth_First Family in exile_1987.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Transparency International 2004 Marcos.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Ferdie and Meldy House of Love and Loot.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Screenshot 2021-12-07 at 00-26-57 2004_GCR_PoliticalCorruption_EN pdf.png`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/The Marcos money empire_1985.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/Stolen Asset Recovery (StAR) Initiative Challenges, Opportunities, and Action Plan.pdf`
+- `Lib/The Library/Marcos Ill Gotten Wealth (Nakaw na Yaman)/IMG_9243.JPG`
+- `Lib/The Library/IMG_9753.HEIC`
+- `Lib/The Library/Z Poverty and Corruption Reports Today/Poverty Report 2021.JPG`
+- `Lib/The Library/EDSA Revolution 1986/IMG_9869.mp4`
+- `Lib/The Library/EDSA Revolution 1986/Enrile Confession.pdf`
+- `Lib/The Library/EDSA Revolution 1986/Enrile Fake Ambush Alleged/fourdaysthatendedanera-frommypersonalarchives-articlefromasiaweekmarch91986-121105194533-phpapp01.pdf`
+- `Lib/The Library/EDSA Revolution 1986/Enrile Fake Ambush Alleged/Marcos-September-22-1972.png`
+- `Lib/The Library/EDSA Revolution 1986/Enrile Fake Ambush Alleged/Excerpt of Waltzing with a Dictator by Raymond Bonner.pdf`
+- `Lib/The Library/EDSA Revolution 1986/Enrile Fake Ambush Alleged/Screenshot 2021-12-08 at 00-42-07 True or false Was 1972 Enrile ambush faked -converted.pdf`
+- `Lib/The Library/EDSA Revolution 1986/Enrile Fake Ambush Alleged/Excerpt of The-Conjugal-Dictatorship-of-Ferdinand-and-Imelda-Marcos.pdf`
+- `Lib/The Library/EDSA Revolution 1986/! NDIIA SNAP ELECTIONS 1986 REPORT.pdf`
+- `Lib/The Library/EDSA Revolution 1986/IMG_0582.JPG`
+- `Lib/The Library/EDSA Revolution 1986/Juan Ponce Enrile Saw Influence Wane - The Washington Post.pdf`
+- `Lib/The Library/EDSA Revolution 1986/Z EDSA.docx`
+- `Lib/The Library/EDSA Revolution 1986/Enrile Confession Mentioning Marcos suggesting he should go against Cory.pdf`
+- `Lib/The Library/EDSA Revolution 1986/CIA - Thinking-the-unthinkable-fall-of-the-philippines.pdf`
+- `Lib/The Library/EDSA Revolution 1986/! NDIAA Snap Election Report.PNG`
+- `Lib/The Library/Z Links/Z Links Victims.docx`
+- `Lib/The Library/Z Links/Z Links Golden Buddha.docx`
+- `Lib/The Library/Z Links/Z Links 1969.docx`
+- `Lib/The Library/Z Links/Z Links Imelda Guilty.docx`
+- `Lib/The Library/Z Links/Z Links Cory Hostage .docx`
+- `Lib/The Library/Z Links/Z Links PCGG.docx`
+- `Lib/The Library/Z Links/Z Links Bangui Windmills.docx`
+- `Lib/The Library/Z Links/Z Links Legal Fights Marcos Lost.docx`
+- `Lib/The Library/Z Links/Z Links Famine Poverty.docx`
+- `Lib/The Library/Z Links/Z Links 13th Month.docx`
+- `Lib/The Library/Z Links/Z Links ODA Japan.docx`
+- `Lib/The Library/Z Links/Z Links Crushing Propaganda.docx`
+- `Lib/The Library/Z Links/Z Links Economy.docx`
+- `Lib/The Library/Z Links/X Links BNPP.docx`
+- `Lib/The Library/Z Links/Z Links Pope.docx`
+- `Lib/The Library/Z Links/Sereno Links.docx`
+- `Lib/The Library/Z Links/Z Links Ill Gotten.docx`
+- `Lib/The Library/Z Links/Z Links Meralco.docx`
+- `Lib/The Library/Z Links/Z Links Distribution of Ill-gotten wealth.docx`
+- `Lib/The Library/Z Links/Z Links Cult.docx`
+- `Lib/The Library/Z Links/Z Links Foreign.docx`
+- `Lib/The Library/Z Links/Z Link Court Cases.docx`
+- `Lib/The Library/Z Links/Z Links Election Protest.docx`
+- `Lib/The Library/Z Links/Z Link Crony .docx`
+- `Lib/The Library/First Parliament Elections 1978/IMG_2339.JPG`
+- `Lib/The Library/First Parliament Elections 1978/IMG_2335.PNG`
+- `Lib/The Library/First Parliament Elections 1978/IMG_2342.JPG`
+- `Lib/The Library/First Parliament Elections 1978/IMG_2337.PNG`
+- `Lib/The Library/First Parliament Elections 1978/IMG_2338.JPG`
+- `Lib/The Library/First Parliament Elections 1978/IMG_2343.JPG`
+- `Lib/The Library/First Parliament Elections 1978/IMG_2336.PNG`
+- `Lib/The Library/First Parliament Elections 1978/IMG_2340.JPG`
+- `Lib/The Library/First Parliament Elections 1978/IMG_2341.JPG`
+- `Lib/The Library/Cases Court Documents/Marcoses lose $354-M contempt case award to human rights victims (Refusing to award $2 billion to 9539 Filipinos).pdf`
+- `Lib/The Library/Cases Court Documents/Sandiganbayan orders Royal Traders Holding to pay gov’t P365-M in Marcoses’ bank deposits.pdf`
+- `Lib/The Library/Cases Court Documents/! 2003 Summary G.R. No. 152154 Republic vs. Sandiganbayan Estate Summary (2003).pdf`
+- `Lib/The Library/Cases Court Documents/FRANCISCO I. CHAVEZ, PETITIONER, VS. IMELDA R. MARCOS, RESPONDENT.pdf`
+- `Lib/The Library/Cases Court Documents/! Compilation Marcos Cases.pdf`
+- `Lib/The Library/Cases Court Documents/MANILA WINS RULING IN JERSEY ON MARCOS ESTATE AND CASH.pdf`
+- `Lib/The Library/Cases Court Documents/L - RA 1379 Unlawfully Acquired Wealth.pdf`
+- `Lib/The Library/Cases Court Documents/2017 G.R. No. 213027, January 18, 2017 - Marcos loses legal fight to reclaim Paintings, Jewelry, Silverware, European Ceramics, Chinese Ceramics to the Philippines in the Malacañang Collection.pdf`
+- `Lib/The Library/Cases Court Documents/Swiss Court Philippines given access to over USD 683 million.pdf`
+- `Lib/The Library/Cases Court Documents/2012 G.R. No. 189434 Computation Basis for Ill-Gotten Wealth.pdf`
+- `Lib/The Library/Cases Court Documents/2003 July G.R. No. 152154, July 15, 2003 - US$658,175,373.60 2002, plus interest, are hereby forfeited in favor of petitioner Republic of the Philippines.pdf`
+- `Lib/The Library/Cases Court Documents/Hawaii Court In Re Estate of Marcos Human Rights Litigation, 910 F. Supp. 1460 (D. Haw 1995).pdf`
+- `Lib/The Library/Cases Court Documents/2006 GR 149802.pdf`
+- `Lib/The Library/Cases Court Documents/Marcos Imelda Swiss Signature Comparisons.JPG`
+- `Lib/The Library/Cases Court Documents/IMG_9558.PNG`
+- `Lib/The Library/Cases Court Documents/Copy of 2003 G.R. No. 152154, July 15, 2003 - US$658,175,373.60 2002, plus interest, are hereby forfeited in favor of petitioner Republic of the Philippines.pdf`
+- `Lib/The Library/Cases Court Documents/Z Links Cases.docx`
+- `Lib/The Library/Cases Court Documents/! Marcos delaying.PNG`
+- `Lib/The Library/Cases Court Documents/! 2018 Imelda Guilty of Graft Swiss Accounts.pdf`
+- `Lib/The Library/Cases Court Documents/Case Digest_ FRANCISCO I. CHAVEZ v. IMELDA R.pdf`
+- `Lib/The Library/Cases Court Documents/Swiss Court Philippines given access to over USD 683 million(1).pdf`
+- `Lib/The Library/Cases Court Documents/! 2012 Summary GR No. 189434, 189505,.pdf`
+- `Lib/The Library/Cases Court Documents/L - E.O. No 2 1986.pdf`
+- `Lib/The Library/Cases Court Documents/! Supreme Court declares money stolen from Philippines.PNG`
+- `Lib/The Library/Cases Court Documents/GR No. 192223.pdf`
+- `Lib/The Library/Cases Court Documents/2012 G.R. No. 189434, April 25, 2012 - US$3,369,975 as of 1983 forfeited to the Philippines belonging to corporate entity Arelma, S.A..pdf`
+- `Lib/The Library/Cases Court Documents/! 2006 GR NO. 149802 digest.pdf`
+- `Lib/The Library/Cases Court Documents/L - E.O. No 1 1986.pdf`
+- `Lib/The Library/Cases Court Documents/1997 G.R. No. 120880 Estate Tax.pdf`
+- `Lib/The Library/Cases Court Documents/2003 Nov G.R. No. 152154.pdf`
+- `Lib/The Library/Cases Court Documents/! 2017 Summary G.R. NOS. 213027 _ 213253.pdf`
+- `Lib/The Library/Cases Court Documents/ROXAS v Marcos 1998 Case.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /5870-16521-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /5946-16820-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /5945-16815-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5928-16749-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5940-16797-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5930-16757-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5903-16653-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5891-16605-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5950-16836-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5902-16649-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5894-16617-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5923-16729-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5921-16721-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5935-16777-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5879-16557-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5932-16765-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5939-16793-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5897-16629-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5951-16840-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5929-16753-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5914-16693-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5901-16645-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5959-16868-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5881-16565-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5936-16781-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5877-16549-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5878-16553-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5960-16872-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5938-16789-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5953-16848-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5899-16637-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5955-16856-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5927-16745-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5933-16769-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5907-16669-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5912-16685-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5937-16785-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5906-16665-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5888-16593-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5887-16589-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5917-16705-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5898-16633-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5908-16673-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5952-16844-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5949-16832-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5883-16573-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5931-16761-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5896-16625-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5918-16709-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5957-16860-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5919-16713-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5913-16689-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5916-16701-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5890-16601-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5880-16561-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5958-16864-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5885-16581-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5911-16681-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5904-16657-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5934-16773-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5893-16613-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5895-16621-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5925-16737-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5915-16697-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5920-16717-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /Marcos Parin Main Documents/5889-16597-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /5874-16537-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /5864-16500-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /5868-16513-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /5867-16509-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /5872-16529-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /5866-16505-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /5948-16828-1-PB.pdf`
+- `Lib/The Library/Marcos Kasarinlan 2012-2013 /6233-17674-1-PB.pdf`
+- `Lib/The Library/Rolex 12.JPG`
+- `Lib/The Library/IMG_9483.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Lt. Jesus Castro.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ver 2017 Esquire Strange Bedfellows_ A Martial Law Love Story.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ver Irwin 2013 Rappler Interview.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Army Chief Acquitted in Murder of Aquino Dec. 2, 1985.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/3. Marcos Coverup and release of Fabian Ver.mp4`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/In the Know_ Pablo Martinez among 16 soldiers convicted of killing Aquino 2014.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Background Before the Flight.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Blunt Object Hit Ninoy_s Head According to Autopsy.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ernesto Herrero Former Agrava Commissioner No Proof Marcos Imelda Danding.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/AQUINO WAS WARNED 3 TIMES OF DEATH PLOT - The New York Times.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Aquino Heart Attack and Surgery.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Z Pardoned by Gloria March 2009.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! Court Case G.R. No. 72670, September 12, 1986 Ninoy Assassination.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Kidney Transplant Incision.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Valerio Missing Link Whereabouts.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Jessie Barcelona Hesitance.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Z Ninoy.docx`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/2. Forensic Evidence.mp4`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Kris Aquino clears uncle Danding in Ninoy assassination.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Opinion #1.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/G.R. NOS. 96027-28 SC No Aquino-Galman case reopening May 2005.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Opinion #2.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Rebecca Quijano 32 year old business owner.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Philippines charges CIA tried to influence probe of Aquino killing to discredit Marcos.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! Ninoy Write-up Ongoing.docx`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Knowledge of Ninoy Return Oplan Balikbayan.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/1.1 Going down the stairs.mp4`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ver talks with Custodio hours after the murder.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/1. Inside the Airplane Audio.mp4`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Galman Fallguy Coverup.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Jessie Barcelona Statement.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Sergeant who linked Danding to Ninoy assassination dies 2014.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ver It’s better you don’t know, General Ver told Irwin.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - 16 Soldiers Guilty Verdict.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Rise and Fall of Ferdinand Marcos Excerpt by William Overholt.jpg`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/PANEL ON SLAYING OF AQUINO FINDS A MILITARY PLOT 1984.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Evidences against Marcos Bad Faith Ninoy Galman double murder.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Rogelio Moreno Established Killer.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/1.2 Timing of the shot 11 seconds 19 steps of stair.mp4`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Galman Shooting.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Sandra Burton Statement.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Miranda.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Imelda Warns Ninoy of Assassination Plot.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Felipe Valerio Missing Link in Hiding.mp4`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Martinez Lying to the Court.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Moreno found with powder burns.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Questions by Government.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ramon Balang says not Galman definitely not Galman. Didnt see him with a gun. Martinez oins Gatan.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/6 People Who Killed Ninoy Aquino, According to Conspiracy Theorists – FilipiKnow.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Martinez states via Mateo that a Powerful Marcos Ally was behind it.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/2.7 Aquino down the stairs with escorts.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Martinez Lying to the Court 1.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Imelda Testifies 1984.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ochoco tagged by Martinez.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Martinez Pins Romeo Gatan, Ople opens commission and announces nothing.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Martinez states via Mateo that a Powerful Marcos Ally was behind it 2009.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Who killed Ninoy.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Forensic Evidence by Supreme Court.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/2.2 Marcos Coverup Forensic Findings Bouncing Bullet.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/1.2 Position of Gunmen Moreno.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/ASSASSINATION NI NINOY AQUINO Sereno.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Background Before the Flight Cameramen.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/1990 September Court Convicts 16 in Murder of Mrs.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Killer Rogelio Moreno  Established.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Rebecca Quijano and Jessie Barcelona Statements.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Newspapermen Manipulated by Col. Tigas Chief Media Relations of the Presidential Security Command.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/4. Marcos Government Guilty 16 Soldiers out to bars.mp4`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Background 3 Days before Intelligence following Aquino Leads.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Mateo Pins Martinez and Valerio Mar 7, 2009.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Martinez Pins Conjuangco, Pins Galman entry to himself.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ramos to Imelda Come clean on hidden wealth, Ninoy_s murder.mp4`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/2.6 Petrous Bone Incapable of Deflection.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Mag moro moro nalang kayo.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! G.R. NO.72670 Digest.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Valerio Missing Link.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Rebecca Quijano Statement.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! GR No. 96027-28 Digest.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Galman Picked up by Military.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! Criminal Case 10010 _ 10011 1990.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Rebecca Quijano Eye witness.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Transcript of ABS-CBN Interview with Pablo Martinez, co-accused in the Aquino murder case 2007.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! G.R. NOS. 96027-28 - Motion to Reopen Case 2005.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Assassination of Aquino linked to power struggle for successor to Marcos - CSMonitor 1983.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ochoco knows more than Valerio.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Pusila per Soldier.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Kidney August 1983 Allegedly Untrue 1984 Photo.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Moreno Family were helped fund Jesuit Prison Service Program.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Background Stairs were Open Steel Steps.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Ramon Balang Testimony.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Testimony Agrava.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Valerio Missing Link(1).PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Original Audio Recording.mp4`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Corazon Agrava_ Chairman of Aquino commission - UPI Archives.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Valerio ordered AVESCOM Van.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Background Before the Assassination.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Olivia Antimano Statement.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Martinez Confession pins on Galman Cojuangco.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/scoures.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ninoy Actual Photo (Graphic, Blood)/2.3 Exit Wound Aquino.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ninoy Actual Photo (Graphic, Blood)/2.5 Entry Wound Aquino.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Kidney Aquino Rumors 1979.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/It’s better you don’t know, General Ver told Irwin.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/2.1 Agrava Commission Forensic Findings.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Rebecca Quijano Statement After Being Approached By Col. Vicente Tigas Jr..png`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Opinion #2(1).PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Ramos to Imelda Come clean on hidden wealth, Ninoy_s murder 2017.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - Rebecca Quijano saw a military man shoot Ninoy on the bridge stairs.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Tulfo Counter by Esquire Comparisons shaky.pdf`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/2.8 Forensic Visual Sample.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Aquino Warned.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/C - 16 Soldiers Guilty Beyond Reasonable Doubt.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Salonge Statement on why Ninoy wants to Return.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0534.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0536.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0544.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0542.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0545.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0537.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0543.JPG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0533.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0538.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0539.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0540.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0533(1).PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0535.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/Marcos Health/IMG_0541.PNG`
+- `Lib/The Library/! Ninoy Aquino Assassination 1983 by Marcos Government/! Evidences for Criminal Case 10010 _ 10011.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Shoes, Jewels, and Monets.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Philippines to sell Imelda Marcos_s _ill-gotten_ jewels.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Imelda Marcos denies defrauding state.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/10 Billion Dollar Question.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Manila Awarded Marcos Millions.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Marcos Aide Convicted in Attempt to Sell Missing Paintings.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Imelda Marcos Is Sentenced to Decades in Prison for Corruption.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Imelda artworks seized.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Imee in Leak on Offshore Accounts.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Marcos Heads Corruption Table.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/ImeldaIconOfExcess.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/$21m worth of Imelda jewellery.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Imelda Marcos loses legal fight to reclaim confiscated jewellery.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Imelda Marcos_ jewels to go on sale.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Philippines seizes £17.6m.pdf`
+- `Lib/The Library/Imelda_s Jewels, Art, Excess/Imelda Arrest Ordered.pdf`
+- `Lib/The Library/Kill Count.JPG`
+- `Lib/The Library/Killings of Government Officials/Aeta Ka Freddy.JPG`
+- `Lib/The Library/Killings of Government Officials/Evelio Javier Was _Swifter Than Eagles and Stronger Than Lions_.pdf`
+- `Lib/The Library/Killings of Government Officials/Antique Evelio B Javier 1986.png`
+- `Lib/The Library/Killings of Government Officials/Pampanga Jose B Lingad 1980.PNG`
+- `Lib/The Library/Killings of Government Officials/Zamboanga Mayor Cesar Climaco 1984.pdf`
+- `Lib/The Library/Killings of Government Officials/ZLinks Killings of Government Officials.docx`
+- `Lib/The Library/Killings of Government Officials/Zamboanga Mayor Cesar Climaco 1984 Photo.jpg`
+- `Lib/The Library/Killings of Government Officials/Antique Evelio B Javier 1986 Photo.jpg`
+- `Lib/The Library/Killings of Government Officials/IP Macliing Dulag 1980.JPG`
+- `Lib/The Library/Escolta Sales Girl.JPG`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Golden Buddha Crop awarded $22 Billion and $1.45 Million.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Sandiganbayan orders Royal Traders Holding to pay gov’t P365-M in Marcoses’ bank deposits.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Court orders forfeiture of Marcos properties from dummy owner_2006.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/MANILA WINS RULING IN JERSEY ON MARCOS ESTATE AND CASH.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Bongbong Marcos charged guilty for 4 year Tax Evasion 1995.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Imelda Marcos disqualified from holding office after corruption conviction 2018.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Marcoses Barred From US entry Refusal to pay $2 Billion to 9,539 Victims.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Disini High court affirms cases vs Marcos crony Disini _ Inquirer News.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Imelda guilty found guilty of creating private foundations in Switzerland from 1978 to 1984. Charged with 8 counts of graft. 2018.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Imelda Marcos loses legal fight to reclaim confiscated jewellery.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Manuel Nieto, Jr., Martial Law crony, to return P2.95 Billion to the Republic of the Philippines 2019.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/$22B Award Against Marcos Reduced.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Disini Marcos crony owes country P1.1-B over BNPP project.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Swiss Banks Ordered to Give Marcos Millions to Philippines AP News-converted.pdf`
+- `Lib/The Library/Cases Legal Fights Marcoses Lost/Contempt case lost by Marcoses $354-M award to human rights victims (Refusing to award $2 billion to 9539 Filipinos).pdf`
+- `Lib/The Library/T Beatles/The Beatles leave the Philippines 5 July 1966 Beatles Bible.pdf`
+- `Lib/The Library/T Beatles/Beatles Story.pdf`
+- `Lib/The Library/T Beatles/Beatles-in-Manila.jpg`
+- `Lib/The Library/T Beatles/Beatles in Manila.mp4`
+- `Lib/The Library/T Beatles/Beatles.JPG`
+- `Lib/The Library/T Beatles/The Beatles_ Worst Nightmare in Manila.pdf`
+- `Lib/The Library/T Beatles/Z Beatles.docx`
+- `Lib/The Library/IMG_9485.PNG`
+- `Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/PCGG ACCOMPLISHMENTS.docx`
+- `Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/2019-PCGG-Year-End-Accomplishment-Report.pdf`
+- `Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/2020-PCGG-Accomplishment-Report.pdf`
+- `Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/PCGG ACCOMPLISHMENTS.JPG`
+- `Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/PCGG Accomplishments 1986-2020.docx`
+- `Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/PCGG Won and Adverse Judgements from 1986 -2020.docx`
+- `Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/2016-PCGG-Year-End-Accomplishment-Report.pdf`
+- `Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/PCGG Evidence.JPG`
+- `Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/List of Cases Filed Against BBM.pdf`
+- `Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/IMG_9137.PNG`
+- `Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/2018-PCGG-Year-End-Accomplishment-Report.pdf`
+- `Lib/The Library/Distribution PCGG of Ill-gotten Wealth PCGG Accomplishments, Cases in Progress/IMG_8958.PNG`
+- `Lib/The Library/Moro Muslim Rebellion/Philippine Human Development Report 2005.pdf`
+- `Lib/The Library/Moro Muslim Rebellion/IMG_9745.PNG`
+- `Lib/The Library/Moro Muslim Rebellion/The Origins of the Muslim Separatist Movement in the Philippines _ Asia Society.pdf`
+- `Lib/The Library/Peso to Dollar Values/The Philippine Economy in the Martial Law Years Cesar Polvorosa Jr.pdf`
+- `Lib/The Library/Peso to Dollar Values/IMG_7574.PNG`
+- `Lib/The Library/Peso to Dollar Values/Historical Average FX Peso Dollar.png`
+- `Lib/The Library/Peso to Dollar Values/MARCOS FREEZES PRICES AND PAY RATE 1983.pdf`
+- `Lib/The Library/Peso to Dollar Values/FX Rates 1965 onward.png`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/F-SUGAR-CHOKED ISLAND STARVING – Chicago Tribune.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/Presidential Decree No. 772 Squatting Criminal Offence.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/Copy of ADDRESS OF HIS HOLINESS JOHN PAUL II TO THE POOR PEOPLE OF THE DISTRICT OF TONDO.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/! Percentage of Malnutrition by Manapat.jpeg`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/P-Philippine slump drives rural poor to jobs in Manila 1-converted.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/F-IMG 1.JPG`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/44.2_ 1985 Poverty Rate - Philippine Statistics Authority.JPG`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/Ombudsman of the Philippines Poverty Assessment Marcos Admin.JPG`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/M Goods Prices Martial Law Museum.png`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/1985 Philippine Statistical Yearbook (PSY)(1).pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/F-USAID Nutritional Program.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/1895 Unemployment National Statistical Coordination Board.JPG`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/IMG_9184.PNG`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/Never forget the famine in Negros – Bantayog ng mga Bayani.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/59_ Poverty Rate in 1985 United Nations UNDSEA Data.JPG`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/F-Long Lines for Rice 1972 During the Rice Shortage.JPG`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/S-Imelda BLISS and Shanty Coverups.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/ADB Poverty Incidence and Gini Coefficient 44_ 1985.JPG`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/Z Links Poverty.docx`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/S-MANILA SQUATTERS ARE AN EYESORE FOR MRS MARCOS 1982.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/1985 Unemployment - Senate Probe.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/Philippines-human-rights-mission-report-1984-eng.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/IMF Poverty, Income Distribution, and Economic Policy in the Philippines.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/M Farmer Wages - Martial Law Museum.png`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/1985 Poverty - Philippine Statistics Authority.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/P-US Library - Philippine Poverty 1980s POVERTY AND WELFARE.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/F-The history behind Bacolod’s _smile_ _ Philippine News Agency.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/Ombudsman Rapid Assessment of Anti-Poverty Programs and Projects.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/59_ Poverty Rate in 1985 United Nations UNDSEA Source.JPG.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/F-Long lines for rice not the first time in RP history 2008.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/F-What_s Behind the Negros Famine Crisis.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/! UNICEF Negros Famine.png`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/12.6_ 1985 Unemployment Rate - Senate Probe.JPG`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/F-Hunger Crop.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/1_3 of Manila’s Population are Squatters.png`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/F-UNICEF Seven Decades of Upholding the Rights of Filipino Children.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/F-Philippines Facing Rice Famine  after poor weather, pest infestation of rice paddies, and flooding.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/ADB POVERTY IN THE PHILIPPINES CAUSES, CONSTRAINTS , AND OPPORTUNITIES.pdf`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/Joel Abong Malnutrition.jpg`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/F-USAID Food.jpg`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/M Poverty Incidence - Martial Law Museum.png`
+- `Lib/The Library/Famine Hunger Poverty in Martial Law/Poverty in the Philippines Our World in Data.PNG`
+- `Lib/The Library/IMG_9482.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/C - Timeline 2.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/The Troubled Presidency Of Corazon Aquino - The Washington Post.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/C - Timeline 1.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_9855.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/! A-NPA intro Why Fr Balweg is Wrong.docx`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_9856.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_9851.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_9068.JPG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/C - Timeline 4.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/C-CIA NPA Report.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/Court convicts 3 RAM members involved in Failed Cory Coup guilty in 1986 slay of unionist Olalia.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/! NDIIA SNAP ELECTIONS 1986 REPORT.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/! C-Cory NPA Oplan Lambat Bitag.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/Pagsuko ng mga rebelde sa Makati matapos ang kudeta ng Disyembre 1989 Mula sa aklat na Philippine Almanac.JPG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_9852.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/! C-CIA NPA numbers Marcos 1985.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0956.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0955.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/! C-Cory’s NPA all-out war.png`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/Rebel Clash Puts Aquino in New Crisis _ Philippines_ The battle leaves a dozen dead, including a general. The renegade governor who supported December coup attempt escapes arrest.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/! C-AFP NPA Population Showing Rise in Marcos and Drop in Cory.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/The Final Report of the Fact-Finding Commission_ VII_ Causes, Analysis, and Recommendations _ Official Gazette of the Republic of the Philippines.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/Pagkasunog ng General Headquarters ng Camp Aguinaldo, Agosto 1987 Mula sa aklat ng PCIJ na Kudeta A Challenge to Philippine Democracy.JPG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0954.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0952.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/Isang madugo at malungkot na eksena sa isang rooftop sa Makati noong kudeta ng Disyembre 1989 Mula sa aklat ng PCIJ na Kudeta A Challenge to Philippine Democracy.JPG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/The Davide and Feliciano Reports.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/Mula sa aklat ng PCIJ na Kudeta A Challenge to Philippine Democracy.JPG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/MGA KUDETA SA ILALIM NG PANGULONG CORY XIAOTIME.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/Coup_s During Cory -1990 Gazette Report.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0950.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/3 RAM members guilty in ’86 Olalia, Alay-ay slays _ Inquirer News.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/Ang anak ng Pangulo na si Noynoy Aquino habang pinoprotektahan ang kanyang ina noong kudeta ng Disyembre 1989 Mula sa aklat ng PCIJ na Kudeta A Challenge to Philippine Democracy.JPG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/25-pagkasunog-ng-ghq-ng-armed-forces-sa-aguinaldo.webp`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/C-Aquino Ramos came close to ending NPA insurgency.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/! C-NPA Cory All out War.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_9854.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0953.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/Election Violence in the Philippines FES.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/! C-Marcos Grew the NPA 1978-1986.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/Si Gringo Honasan at ang Reform the Armed Forces Movement o RAM. Mula sa aklat ng PCIJ na Kudeta A Challenge to Philippine Democracy.JPG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/Z Cory.docx`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/ADB Assessment Cory.JPG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/C-Memories of sacrifice for the common good - BusinessWorld Online 2021.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/C - Timeline 3.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/! NDIAA Snap Election Report.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/IMG_0951.PNG`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/Screenshot 2021-12-19 at 12-25-10 Manila Standard - Google News Archive Search.png`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/The Final Report of the Fact-Finding Commission_ I_ Coup d’Etat_ An Overview _ Official Gazette of the Republic of the Philippines.pdf`
+- `Lib/The Library/! Cory NPA Coups Snap Elections/C-The Communist Insurgency in the Philippines Tactics and Talks 2011.pdf`
+- `Lib/The Library/Imelda Bulgari Shopping Spree/Screen Shot 2021-09-22 at 10.37.30 PM.png`
+- `Lib/The Library/Imelda Bulgari Shopping Spree/Screen Shot 2021-09-22 at 10.37.55 PM.png`
+- `Lib/The Library/NPA Count.JPG`
+- `Lib/The Library/IMG_9755.HEIC`
+- `Lib/The Library/Marcos considers Martial Law 2 years earlier for Self-Preservation.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/EP-Poverty in the Philippines.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Public Sector Deficit Consolidated.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Inflation Rate.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Imports.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/E-GDP Growth Rates.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/! Income Inequality.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Penn Philippine GDP _ GDP per capita.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/IMF Philippines National Government Tax Revenue in Percent of GNP.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Gross Savings.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/! ASEAN GDP Per Capita 2100 (Indonesia, Philippines, Vietnam, Thailand...) (1950-2100).mp4`
+- `Lib/The Library/Economy GDP during Martial Law/IMF Philippines Gross National Savings.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Exports.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Inflation Rate PSA.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Interest in Payments of Foreign Debt.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/C-World Economic Ranking.jpg`
+- `Lib/The Library/Economy GDP during Martial Law/44.2_ 1985 Poverty Rate - Philippine Statistics Authority.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/A-Surveys suppressed by martial law 2012.pdf`
+- `Lib/The Library/Economy GDP during Martial Law/E-Capital Output Ratio.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/EP-Land Area Philippines.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/M Deforestation Martial Law Museum.png`
+- `Lib/The Library/Economy GDP during Martial Law/M Goods Prices Martial Law Museum.png`
+- `Lib/The Library/Economy GDP during Martial Law/Income Per Person.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/59_ Poverty Rate in 1985 United Nations DSEA Data.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/IMG_2123.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/Debt Accrued per President.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/1895 Unemployment National Statistical Coordination Board.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Inflation GDP Philippines World Bank.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Consumption Expenditure.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Unemployment and Underemployment.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/! E-GDP Growth.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/! Stock Index Returns.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-GDP Growth.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-GDP per Capita.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/Z Links Economy.docx`
+- `Lib/The Library/Economy GDP during Martial Law/! 1 Economy Intro.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/Letter of Instruction No. 1307 1983 Crash.pdf`
+- `Lib/The Library/Economy GDP during Martial Law/E-Expenses.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Exports.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/Hindi ‘golden age’ ng ekonomiya ang Martial Law Sept 2021.pdf`
+- `Lib/The Library/Economy GDP during Martial Law/BSP Macroeconomic Policy Regimes in the Philippines.pdf`
+- `Lib/The Library/Economy GDP during Martial Law/M External Debt Martial Law Museum.png`
+- `Lib/The Library/Economy GDP during Martial Law/EP-Life Expectancy.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Labor and Productivity.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/! Debt to GDP Ratio per president by Marco Pollo.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Philippines Annual GDP Growth.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/! Economy in Martial Law Years Cesar Polvorosa Jr.pdf`
+- `Lib/The Library/Economy GDP during Martial Law/IMG_2325.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/P-Copra Price World.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Wages of Workers.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/EP-Population.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/Philippines Historical GDP 1960-1978.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-External Debt, Public Share, Debt.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Capital Flight.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/! Economy Intro.docx`
+- `Lib/The Library/Economy GDP during Martial Law/M Farmer Wages - Martial Law Museum.png`
+- `Lib/The Library/Economy GDP during Martial Law/E-Manufacturing Rates of Protection.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/EP-Fertility Rate.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/! Top 10 poorest countries Datawonder.mp4`
+- `Lib/The Library/Economy GDP during Martial Law/EC-GDP Comparison SEA.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/GDP Per Year Marcos.jpg`
+- `Lib/The Library/Economy GDP during Martial Law/1980 42_ Poverty Rate.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/Martial Law in Data _ Martial Law Museum.pdf`
+- `Lib/The Library/Economy GDP during Martial Law/EC-Growth Rate Comparison.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/Mga Datos Tungkol sa Martial Law _ Martial Law Museum.pdf`
+- `Lib/The Library/Economy GDP during Martial Law/E-Indices of Peso-Dollar Exchange Rate.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/M Raw Data MartialLawMuseum.xlsx`
+- `Lib/The Library/Economy GDP during Martial Law/E-Foreign Direct Investments.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/Philippines Historical GDP 1978-1996.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/! Cause of failure of Marcos Economy.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/IMF Marcos Debt Crisis.pdf`
+- `Lib/The Library/Economy GDP during Martial Law/IMF Philippines Implementation of Fiscal Programs—Consolidated Public Sector Balance.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/M Deforestation - Martial Law Museum.png`
+- `Lib/The Library/Economy GDP during Martial Law/A-Did the Declaration of Martial Law Stunt our Economic Growth A Causal Impact Analysis in Time Series Azcarraga, Arno Mikhail J..pdf`
+- `Lib/The Library/Economy GDP during Martial Law/E-Debt Short Term.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/IMF Philippines External Debt.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-FDI Distribution.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/12.6_ 1985 Unemployment Rate - Senate Probe.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/Debt External PH Central Bank.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/EP-Infant Mortality and Life Expectancy.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/! GDP Growth.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/EP-Death Rate Philippines .PNG`
+- `Lib/The Library/Economy GDP during Martial Law/Economical Comparison SoKor PH SG Thai 1965-1985.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/! Debt to GDP Ratio per president by Marco Pollo Photo.png`
+- `Lib/The Library/Economy GDP during Martial Law/E-Account Surplus.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/E-Poverty Incidence.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/Loan Coffin Marcos Term.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/! 1983 29_ Underemployment triples from 1978.PNG`
+- `Lib/The Library/Economy GDP during Martial Law/M Daily Wages Martial Law Museum.png`
+- `Lib/The Library/Economy GDP during Martial Law/P-Sugar Price World.JPG`
+- `Lib/The Library/Economy GDP during Martial Law/! Bankrupt Demand and Supply - Boo Chanco Feb 2022.pdf`
+- `Lib/The Library/Economy GDP during Martial Law/M Poverty Incidence - Martial Law Museum.png`
+- `Lib/The Library/Economy GDP during Martial Law/! [Paper] De Dios, Gochoco-Bautista, Punongbayan (2021). Martial Law and the Philippine Economy. UP School of Economics Discusion Papers 202107_.pdf`
+- `Lib/The Library/Election Protest Leni-Bongbong/IMG_9461.JPG`
+- `Lib/The Library/Election Protest Leni-Bongbong/Z Links Election Protest.docx`
+- `Lib/The Library/Election Protest Leni-Bongbong/TIMELINE_ The 4-year Robredo-Marcos poll case _ Inquirer News.pdf`
+- `Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/TAPES REVEAL MARCOS PLOT TO DEPOSE, CAPTURE AQUINO - The Washington Post.pdf`
+- `Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/Z Links Cory Hostage_.docx`
+- `Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/Taped Marcos Plotting Released_ _Going to Land_ in Philippines,_ He Says - Los Angeles Times.pdf`
+- `Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/BAKIT HINDI PINABALIK SI MARCOS, SR. SA PILIPINAS PARA MAHARAP ANG MGA KASO NIYA.pdf`
+- `Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/Marcos Tells Invasion Plan.pdf`
+- `Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/U.S. WARNS MARCOS AGAINST PLOTTING TO OVERTHROW AQUINO.pdf`
+- `Lib/The Library/1987 Cory Hostage Plot and Planned Armed Invasion by Marcos Leaked - Bakit Hindi Pinabalik ng Pilipinas/Armed Invasion Plot and Leak.mp4`
+- `Lib/The Library/T Ali-Frazier Fight/President-Ferdinand-Marcos-with-Muhammad-Ali-and-Joe-Frazier-at-Malacanang-Palace.webp`
+- `Lib/The Library/T Ali-Frazier Fight/$6.5 Million used to Distract Spiraling Martial Law.pdf`
+- `Lib/The Library/T Ali-Frazier Fight/Thrilla-in-Manila-promotional-poster.webp`
+- `Lib/The Library/T Ali-Frazier Fight/Sex, Money, and Muhammad Ali_ How ‘The King’ Conquered Manila.pdf`
+- `Lib/The Library/T Ali-Frazier Fight/Did our country really gain from Ali vs Frazier.pdf`
+- `Lib/The Library/T Ali-Frazier Fight/Ali Frazier Fight.JPG`
+- `Lib/The Library/T Ali-Frazier Fight/Z Link Ali Frazier.docx`
+- `Lib/The Library/T Ali-Frazier Fight/Why Thrilla in Manila was the equivalent in its day of handing the World Cup to Qatar.pdf`
+- `Lib/The Library/Bongbong Lazy Marcos.JPG`
+- `Lib/The Library/Massacres during Martial Law/Screenshot 2021-11-26 at 17-22-14 What Caring to Remember Means Community Transitional Justice - Blueboard by Ma Lourdes Ve[...].png`
+- `Lib/The Library/Massacres during Martial Law/Screenshot 2021-11-26 at 17-23-12 Escalante Massacre – Bantayog ng mga Bayani.png`
+- `Lib/The Library/Massacres during Martial Law/Screenshot 2021-11-26 at 17-19-18 UNPO Moro Philippines Recognizes Massacre.png`
+- `Lib/The Library/Massacres during Martial Law/Massacres.docx`
+- `Lib/The Library/Massacres during Martial Law/Screenshot 2021-11-26 at 17-49-23 langoni 9 detained girl and lay theologian cases raised at churchmilitary dialogue - ucan[...].png`
+- `Lib/The Library/IMG_9488.PNG`
+- `Lib/The Library/Z Pendings/IMG_0148.JPG`
+- `Lib/The Library/Z Pendings/IMG_0482.PNG`
+- `Lib/The Library/Z Pendings/RPReplay_Final1644810638.mp4`
+- `Lib/The Library/Z Pendings/IMG_0290.JPG`
+- `Lib/The Library/Z Pendings/Screenshot_20220219-001811_Facebook.jpg`
+- `Lib/The Library/Z Pendings/IMG_0177.JPG`
+- `Lib/The Library/Z Pendings/IMG_0142.PNG`
+- `Lib/The Library/Z Pendings/IMG_0488.PNG`
+- `Lib/The Library/Z Pendings/IMG_0249.JPG`
+- `Lib/The Library/Z Pendings/IMG_0498.PNG`
+- `Lib/The Library/Z Pendings/IMG_0487.PNG`
+- `Lib/The Library/Z Pendings/IMG_0555.JPG`
+- `Lib/The Library/Z Pendings/IMG_0250.JPG`
+- `Lib/The Library/Z Pendings/IMG_0178.JPG`
+- `Lib/The Library/Z Pendings/IMG_0339.mp4`
+- `Lib/The Library/Z Pendings/IMG_0493.PNG`
+- `Lib/The Library/Z Pendings/IMG_0289.PNG`
+- `Lib/The Library/Z Pendings/IMG_0245.JPG`
+- `Lib/The Library/Z Pendings/IMG_0338.mp4`
+- `Lib/The Library/Z Pendings/IMG_0247.JPG`
+- `Lib/The Library/Z Pendings/IMG_0750.PNG`
+- `Lib/The Library/Z Pendings/IMG_0811.PNG`
+- `Lib/The Library/Z Pendings/IMG_0340.PNG`
+- `Lib/The Library/Z Pendings/IMG_0497.JPG`
+- `Lib/The Library/Z Pendings/Screenshot_20220219-001747_Facebook.jpg`
+- `Lib/The Library/Z Pendings/IMG_0937.PNG`
+- `Lib/The Library/Z Pendings/IMG_0754.PNG`
+- `Lib/The Library/Z Pendings/IMG_0624.JPG`
+- `Lib/The Library/Z Pendings/IMG_0194.JPG`
+- `Lib/The Library/Z Pendings/IMG_0316.PNG`
+- `Lib/The Library/Z Pendings/IMG_0768.JPG`
+- `Lib/The Library/Z Pendings/IMG_0686.JPG`
+- `Lib/The Library/Z Pendings/IMG_0749.PNG`
+- `Lib/The Library/Z Pendings/Marcos sells government properties Chicago Tribune.jpeg`
+- `Lib/The Library/Z Pendings/IMG_0613.PNG`
+- `Lib/The Library/Z Pendings/Screenshot_20220219-001736_Facebook.jpg`
+- `Lib/The Library/Z Pendings/IMG_0251.PNG`
+- `Lib/The Library/Z Pendings/IMG_0248.JPG`
+- `Lib/The Library/Z Pendings/IMG_0323.JPG`
+- `Lib/The Library/Z Pendings/IMG_0652.PNG`
+- `Lib/The Library/Z Pendings/IMG_0769.JPG`
+- `Lib/The Library/Z Pendings/Photo 2022-03-05 01.17.15 AM.jpg`
+- `Lib/The Library/Z Pendings/Edifice Lead.jpeg`
+- `Lib/The Library/Z Pendings/IMG_0653.PNG`
+- `Lib/The Library/Z Pendings/00-1.jpg`
+- `Lib/The Library/Z Pendings/IMG_0642.JPG`
+- `Lib/The Library/Z Pendings/IMG_0489.PNG`
+- `Lib/The Library/Z Pendings/IMG_0342.PNG`
+- `Lib/The Library/Z Pendings/IMG_0258.JPG`
+- `Lib/The Library/Z Pendings/IMG_0294.JPG`
+- `Lib/The Library/Z Pendings/IMG_0288.JPG`
+- `Lib/The Library/Z Pendings/IMG_0556.JPG`
+- `Lib/The Library/Z Pendings/IMG_0643.JPG`
+- `Lib/The Library/Z Pendings/IMG_0351.JPG`
+- `Lib/The Library/Z Pendings/IMG_0233.PNG`
+- `Lib/The Library/Z Pendings/IMG_0363.PNG`
+- `Lib/The Library/Z Pendings/IMG_0507.PNG`
+- `Lib/The Library/Z Pendings/IMG_0287.PNG`
+- `Lib/The Library/Z Pendings/IMG_7694.PNG`
+- `Lib/The Library/Z Pendings/IMG_0752.PNG`
+- `Lib/The Library/Z Pendings/IMG_0483.PNG`
+- `Lib/The Library/Z Pendings/IMG_0481.PNG`
+- `Lib/The Library/Z Pendings/640px-West_Philippine_Sea.svg.png`
+- `Lib/The Library/Z Pendings/IMG_0491.PNG`
+- `Lib/The Library/Z Pendings/Screenshot_20220219-001752_Facebook.jpg`
+- `Lib/The Library/Z Pendings/IMG_0540.JPG`
+- `Lib/The Library/Z Pendings/IMG_0751.PNG`
+- `Lib/The Library/Z Pendings/IMG_0331.JPG`
+- `Lib/The Library/Z Pendings/IMG_0841.PNG`
+- `Lib/The Library/Z Pendings/IMG_0490.PNG`
+- `Lib/The Library/Z Pendings/IMG_0141.PNG`
+- `Lib/The Library/Z Pendings/IMG_0746.PNG`
+- `Lib/The Library/Z Pendings/IMG_0486.JPG`
+- `Lib/The Library/Z Pendings/IMG_0336.mp4`
+- `Lib/The Library/Z Pendings/IMG_0477.PNG`
+- `Lib/The Library/Z Pendings/IMG_0654.PNG`
+- `Lib/The Library/Z Pendings/IMG_0677.JPG`
+- `Lib/The Library/Z Pendings/IMG_0535.PNG`
+- `Lib/The Library/Z Pendings/IMG_0743.JPG`
+- `Lib/The Library/Z Pendings/IMG_0246.JPG`
+- `Lib/The Library/Z Pendings/IMG_0753.PNG`
+- `Lib/The Library/Z Pendings/Screenshot_20220219-001816_Facebook.jpg`
+- `Lib/The Library/Z Pendings/IMG_0544.JPG`
+- `Lib/The Library/Z Pendings/IMG_0842.PNG`
+- `Lib/The Library/Z Pendings/IMG_0682.PNG`
+- `Lib/The Library/Z Pendings/IMG_0480.PNG`
+- `Lib/The Library/Z Pendings/IMG_0254.PNG`
+- `Lib/The Library/Pro-Marcos Readings/Accomplishments.docx`
+- `Lib/The Library/Pro-Marcos Readings/Sainthood Postponed by Lewis E. Gleeck, Jr. (z-lib.org).pdf`
+- `Lib/The Library/Pro-Marcos Readings/Buried beside his mother.JPG`
+- `Lib/The Library/Pro-Marcos Readings/Joma behind Plaza Miranda bombing_ comrade _ Philippine News Agency.pdf`
+- `Lib/The Library/Pro-Marcos Readings/Shultz and the ‘Hit Men’ Destroyed the Philippines.pdf`
+- `Lib/The Library/Pro-Marcos Readings/Playboy Interview 1987.docx`
+- `Lib/The Library/Pro-Marcos Readings/IMG_8371.JPG`
+- `Lib/The Library/Pro-Marcos Readings/From the lips of a dying President By Salvador H. Laurel.pdf`
+- `Lib/The Library/Proclamation No. 1081, s. 1972 - PROCLAIMING A STATE OF MARTIAL LAW IN THE PHILIPPINES.pdf`
+- `Lib/The Library/13th Month Pay/[7] Cory Memorandum Order No. 28, s. 1986 - All employers are hereby required to pay all their rank-and-file employees a 13th month pay.pdf`
+- `Lib/The Library/13th Month Pay/[6] 1965 P1000 Adjusted for Inflation.PNG`
+- `Lib/The Library/13th Month Pay/Z Links 13th Month.docx`
+- `Lib/The Library/13th Month Pay/[4]1975 P1000 Adjusted for Inflation.PNG`
+- `Lib/The Library/13th Month Pay/! 13th Month Summary.PNG`
+- `Lib/The Library/13th Month Pay/Marcos does not include Government Employees recepients of 13th Month Pay.pdf`
+- `Lib/The Library/13th Month Pay/13th Month Pay Piece.png`
+- `Lib/The Library/13th Month Pay/[6] 1970 P1000 Adjusted for Inflation.PNG`
+- `Lib/The Library/13th Month Pay/[2] Marcos Presidential Decree No. 851, s. 1975 - Employers required to pay employees with basic salary of not more than P1,000 a month.pdf`
+- `Lib/The Library/13th Month Pay/[3]Existence of 13th Month Pay before Marcos’ Declaration.PNG`
+- `Lib/The Library/13th Month Pay/[1] Negrense labor leader, father of 13th month pay passes away.pdf`
+- `Lib/The Library/13th Month Pay/[9] Pnoy Republic Act No. 10653 - 2015 Increseas Tax-free Threshold for Bonuses and 13th Month from P30,000 to P82,000.pdf`
+- `Lib/The Library/13th Month Pay/REVISED GUIDELINES ON THE IMPLEMENTATION OF THE 13TH MONTH PAY LAW.pdf`
+- `Lib/The Library/13th Month Pay/[5] 1986 P1000 Adjusted for Inflation.PNG`
+- `Lib/The Library/13th Month Pay/IMPLEMENTATION OF THE 13TH MONTH PAY LAW.png`
+- `Lib/The Library/13th Month Pay/[8] Congress Includes Government Employess 1988.PNG`
+- `Lib/The Library/13th Month Pay/!13th Month Pay Tagalog-English Summary.docx`
+- `Lib/The Library/Japanese Marcos ODA Scandal/IMG_8659.PNG`
+- `Lib/The Library/Japanese Marcos ODA Scandal/Money Laundering Manapat 443.HEIC`
+- `Lib/The Library/Japanese Marcos ODA Scandal/Excerpt Civil_Society_in_Japan .pdf`
+- `Lib/The Library/Japanese Marcos ODA Scandal/Excerpt Global Corruption from a Geographic Perspective by Barney Warf.pdf`
+- `Lib/The Library/IMG_9486.PNG`
+- `Lib/The Library/IMG_0677.JPG`
+- `Lib/The Library/Government Property Selling/Did 1986 EDSA People Power caused privatization of gov’t firms context.pdf`
+- `Lib/The Library/Government Property Selling/Philippines Privatization Program PITO.pdf`
+- `Lib/The Library/Government Property Selling/Marcos sells government properties Chicago Tribune.JPG`
+- `Lib/The Library/Government Property Selling/Privatization Policy in the Philippines.pdf`
+- `Lib/The Library/Government Property Selling/Presidential Decree No. 2030, s.pdf`
+- `Lib/The Library/Government Property Selling/Z Government Selling.docx`
+- `Lib/The Library/CIA US Declassified Files/CIA - WASHINGTON CALLED SHOTS IN LAST HOURS.pdf`
+- `Lib/The Library/CIA US Declassified Files/CIA - 1974 with mention of Marcos personalizing the government..pdf`
+- `Lib/The Library/CIA US Declassified Files/CIA - REVOLUTION AND THE PHILIPPINES.pdf`
+- `Lib/The Library/CIA US Declassified Files/CIA - 1982 report, a year after lifting Martial law in 1981.pdf`
+- `Lib/The Library/CIA US Declassified Files/CIA - COVERT CIA NETWORK URGED IN PHILIPPINES.pdf`
+- `Lib/The Library/CIA US Declassified Files/CIA - Communist Insurgency in the Philippines Organization and Capabilities.pdf`
+- `Lib/The Library/CIA US Declassified Files/Z Links CIA.docx`
+- `Lib/The Library/CIA US Declassified Files/CIA - US Congress investigation on alleged Marcos New York propertie.pdf`
+- `Lib/The Library/CIA US Declassified Files/CIA - WHAT TO DO ABOUT MARCOS.pdf`
+- `Lib/The Library/CIA US Declassified Files/CIA - REAGAN IS ASKED TO URGE MARCOS TO STEP DOWN.pdf`
+- `Lib/The Library/CIA US Declassified Files/CIA - STRATEGIC, EMOTIONAL U.S. TIES ARE AT STAKE IN THE PHILIPPINES.pdf`
+- `Lib/The Library/CIA US Declassified Files/CIA - Thinking-the-unthinkable-fall-of-the-philippines.pdf`
+- `Lib/The Library/CIA US Declassified Files/CIA - Prospects for Revolution in the Philippines An Indicators Approach.pdf`
+- `Lib/The Library/Crushing Propaganda/Migrant-Worker-Case-Study-Final-12.2020-6.08.2021.pdf`
+- `Lib/The Library/Crushing Propaganda/Aquino brought PH economy ‘beyond everyone’s expectations’.pdf`
+- `Lib/The Library/Crushing Propaganda/85_ of Yolanda funds liquidated says DILG.pdf`
+- `Lib/The Library/Crushing Propaganda/Aquino World Bank.JPG`
+- `Lib/The Library/Crushing Propaganda/Yolanda showing support to Romualdez.JPG`
+- `Lib/The Library/Crushing Propaganda/Aquino signs Universal Health Care bill into law.pdf`
+- `Lib/The Library/Crushing Propaganda/Miriam YOUTH Volunteers Statement about BBM Campaign 2016.pdf`
+- `Lib/The Library/Crushing Propaganda/IMG_0563.PNG`
+- `Lib/The Library/Crushing Propaganda/IMG_0561.PNG`
+- `Lib/The Library/Crushing Propaganda/Marcos not highest bar performer.pdf`
+- `Lib/The Library/Crushing Propaganda/IMG_0560.mp4`
+- `Lib/The Library/Crushing Propaganda/Miriam Defensor Santiago goes against Marcos.png`
+- `Lib/The Library/Crushing Propaganda/8 things Juan Ponce Enrile, Bongbong Marcos got wrong about martial law Sept 2018.pdf`
+- `Lib/The Library/Crushing Propaganda/! LP Gold Shipment.PNG`
+- `Lib/The Library/Crushing Propaganda/Yolanda 1.PNG`
+- `Lib/The Library/Crushing Propaganda/Miriam on Martial Law, Only for Narcissism.mp4`
+- `Lib/The Library/Crushing Propaganda/Cory pays for Marcos Hospital Bills.JPG`
+- `Lib/The Library/Crushing Propaganda/Miriam Campaign Team Statements 3.png`
+- `Lib/The Library/Crushing Propaganda/PNoy Era Statistics.jpg`
+- `Lib/The Library/Crushing Propaganda/Cory Aquino government pays hospital bills of Marcos_ mom - UPI Archives.pdf`
+- `Lib/The Library/Crushing Propaganda/Yolanda 2.JPG`
+- `Lib/The Library/Crushing Propaganda/COA hits poor use of donated funds for ‘Yolanda,’ Marawi victims.pdf`
+- `Lib/The Library/Crushing Propaganda/Miriam MDS YOUTH Volunteers about BBM Campaign 2016 Photo.jpg`
+- `Lib/The Library/Crushing Propaganda/IMG_0111.PNG`
+- `Lib/The Library/Crushing Propaganda/Miriam Campaign Team Statements 1.png`
+- `Lib/The Library/Crushing Propaganda/IMG_0553.mp4`
+- `Lib/The Library/Crushing Propaganda/Miriam Campaign Team Statements 2.png`
+- `Lib/The Library/Crushing Propaganda/IMG_0562.PNG`
+- `Lib/The Library/Crushing Propaganda/Z Crushing Propaganda.docx`
+- `Lib/The Library/Crushing Propaganda/Miriam Sister Defensor Knack on Tandem.JPG`
+- `Lib/The Library/Crushing Propaganda/Cory Aquino’s Office to Pay Marcos Mother’s Hospital Bills.pdf`
+- `Lib/The Library/Crushing Propaganda/Miriam on Marcos Debt Worst presidency.JPG`
+- `Lib/The Library/Crushing Propaganda/Bakit ka galit sa LP.pdf`
+- `Lib/The Library/Crushing Propaganda/World Bank hails Philippines as next Asian _miracle_.pdf`
+- `Lib/The Library/Crushing Propaganda/IMG_0677.JPG`
+- `Lib/The Library/Crushing Propaganda/Aquino International Lending.JPG`
+- `Lib/The Library/Crushing Propaganda/IMG_0678.JPG`
+- `Lib/The Library/Crushing Propaganda/Aquino Progress.pdf`
+- `Lib/The Library/Imee Trajano Murder/Trajano v Marcos,  978 F 2d 493.pdf`
+- `Lib/The Library/Imee Trajano Murder/Imee Admits to Trajano Murder.pdf`
+- `Lib/The Library/IMG_0678.JPG`
+- `Lib/The Library/Documentaries Videos/Lifting of Martial Law, January 17, 1981.mp4`
+- `Lib/The Library/Documentaries Videos/A Malignant Spirit (1986).mp4`
+- `Lib/The Library/Documentaries Videos/Footages from EDSA People Power Revolution 1986.mp4`
+- `Lib/The Library/T World Chess Championship1978/Queen’s Gambit in Baguio, 1978.pdf`
+- `Lib/The Library/T World Chess Championship1978/Z Links Chess.docx`
+- `Lib/The Library/T World Chess Championship1978/The Wacky 1978 Chess World Championship — Positively Filipino _ Online Magazine for Filipinos in the Diaspora.pdf`
+- `Lib/The Library/T World Chess Championship1978/The World Chess Championship And the Mystery of Baguio City - The New York Times.pdf`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/! OFFICIAL MESSAGE OF HIS HOLINESS JOHN PAUL II TO THE PRESIDENT AND TO THE PEOPLE OF THE PHILIPPINES 1981.pdf`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Pope 1970 Visit Tondo 2.JPG`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Tondo Crowd 1981.jpg`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/MANILA BEAUTIFIES SLUM FOR THE POPE.pdf`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Pope IMG 1.JPG`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/One can never justify any violation of rights John Paul II stands up to a dictator .pdf`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Pope in Manila Declares Rights Must Be Uphled.pdf`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/OFFICIAL ADDRESS OF HIS HOLINESS JOHN PAUL II TO LANDOWNERS AND WORKERS OF SUGAR CANE PLANTATIONS.pdf`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Message of Pope John Paul II upon His arrival in the Philippines, February 17, 1981.pdf`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Pope 1970 Visit Tondo.JPG`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Imelda we are so poor. All we have is coconuts and bamboo. You know what I did I did a bamboo mansion and a coconut palace.mp4`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/POPE, WITH MARCOS BESIDE HIM, DELIVERS HUMAN RIGHTS TALK.pdf`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/IMG_7697.JPG`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/Pope rejects Coconut Palace.pdf`
+- `Lib/The Library/Pope John Paul II_s Visit Human Rights Poverty/ADDRESS OF HIS HOLINESS JOHN PAUL II TO THE POOR PEOPLE OF THE DISTRICT OF TONDO.pdf`
+- `Lib/The Library/Cult of Marcos and other Narcissisms/Edifice Complex_ Building on the Backs of the Filipino People _ Martial Law Museum.pdf`
+- `Lib/The Library/Cult of Marcos and other Narcissisms/Head Photo by RJ_celts623.jpg`
+- `Lib/The Library/Cult of Marcos and other Narcissisms/Cult Marcos Seen As Saint By Cult Members The Seattle Times-converted.pdf`
+- `Lib/The Library/Cult of Marcos and other Narcissisms/Cults Began as Political Weapon, Ended Up Deifying Ferdinand Marcos.pdf`
+- `Lib/The Library/Cult of Marcos and other Narcissisms/Cult Marcos Praised and Worshipped.mp4`
+- `Lib/The Library/Cult of Marcos and other Narcissisms/Head Marcos.webp`
+- `Lib/The Library/Cult of Marcos and other Narcissisms/Peso Marcos Ordered Face on Coin.JPG`
+- `Lib/The Library/Cult of Marcos and other Narcissisms/Head Marcos Erected for Himself.PNG`
+- `Lib/The Library/Cult of Marcos and other Narcissisms/CultPhilippines cult idolises Marcos.pdf`
+- `Lib/The Library/Cult of Marcos and other Narcissisms/Cult Photo.JPG`
+- `Lib/The Library/Cult of Marcos and other Narcissisms/Head Defaced .jpg`
+- `Lib/! QR Code PDF.pdf`
+- `Lib/! About the Martial Law Library.docx`
+- `Lib/[Book] Mijares, Primitivo (1976). The Conjugal Dictatorship of Ferdinand and Imelda Marcos (Reprint, 1st ed.). Tatay Jobo Elizes..pdf`
+- `Lib/! QR Code ML Library.PNG`
