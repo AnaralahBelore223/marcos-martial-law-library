@@ -4,6 +4,14 @@ This repository contains an archived version of the Marcos Martial Law Library.
 
 All the relevant files are located in the `Lib/` folder.
 
+# On Linux/BSD
+
+Run:
+
+```
+git clone https://github.com/AnaralahBelore223/marcos-martial-law-library; pushd marcos-martial-law-library/Lib; sha256sum -C SHA256SUM; popd
+```
+
 # Permanent Web Links
 
 | # | Description                                                                                                                                                                                                                | Download Links                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | CID                                                           | Pinned               |
