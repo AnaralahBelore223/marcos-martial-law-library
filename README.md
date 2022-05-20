@@ -9,7 +9,7 @@ All the relevant files are located in the `Lib/` folder.
 Run:
 
 ```
-git clone https://github.com/AnaralahBelore223/marcos-martial-law-library; pushd marcos-martial-law-library/Lib; sha256sum -C SHA256SUM; popd
+git clone https://github.com/AnaralahBelore223/marcos-martial-law-library; pushd marcos-martial-law-library/Lib; sha256sum -c SHA256SUM; popd
 ```
 
 # Permanent Web Links
