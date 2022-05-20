@@ -1309,9 +1309,17 @@
 - `Lib/The Library/Imee Trajano Murder/Trajano v Marcos,  978 F 2d 493.pdf`
 - `Lib/The Library/Imee Trajano Murder/Imee Admits to Trajano Murder.pdf`
 - `Lib/The Library/IMG_0678.JPG`
+- `Lib/The Library/Documentaries Videos/a-malignant-spirit-1986.tar.gz.1`
+- `Lib/The Library/Documentaries Videos/a-malignant-spirit-1986.tar.gz.2`
+- `Lib/The Library/Documentaries Videos/a-malignant-spirit-1986.tar.gz.3`
+- `Lib/The Library/Documentaries Videos/extract.cmd`
+- `Lib/The Library/Documentaries Videos/extract.sh`
+- `Lib/The Library/Documentaries Videos/footages-from-edsa-people-power-revolution-1986.tar.gz.1`
+- `Lib/The Library/Documentaries Videos/footages-from-edsa-people-power-revolution-1986.tar.gz.2`
+- `Lib/The Library/Documentaries Videos/footages-from-edsa-people-power-revolution-1986.tar.gz.3`
+- `Lib/The Library/Documentaries Videos/footages-from-edsa-people-power-revolution-1986.tar.gz.4`
 - `Lib/The Library/Documentaries Videos/Lifting of Martial Law, January 17, 1981.mp4`
-- `Lib/The Library/Documentaries Videos/A Malignant Spirit (1986).mp4`
-- `Lib/The Library/Documentaries Videos/Footages from EDSA People Power Revolution 1986.mp4`
+- `Lib/The Library/Documentaries Videos/README.txt`
 - `Lib/The Library/T World Chess Championship1978/Queen’s Gambit in Baguio, 1978.pdf`
 - `Lib/The Library/T World Chess Championship1978/Z Links Chess.docx`
 - `Lib/The Library/T World Chess Championship1978/The Wacky 1978 Chess World Championship — Positively Filipino _ Online Magazine for Filipinos in the Diaspora.pdf`
